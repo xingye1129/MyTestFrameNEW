@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-import requests,json
+import requests,json,traceback
 
 class HTTP:
     """
@@ -9,6 +9,7 @@ class HTTP:
     """
 
     def __init__(self):
+        # requests.packages.urllib3.disable_warnings()
         self.session = requests.session()
         #定义实例变量，用来保存返回utf8编码的返回值
         self.result = ''
@@ -25,8 +26,7 @@ class HTTP:
         else:
             d = self.__get_param(d)
             d = self.__get_data(d)
-
-        res = self.session.post(url,d,j)
+        res = self.session.post(url,d,j,verify=False)
         self.result = res.content.decode(encode)
         self.jsonres = json.loads(self.result)
 
@@ -53,7 +53,11 @@ class HTTP:
         :return:
         """
         #将需要保存的参数的，保存为参数t的值
-        self.params[t] = self.jsonres[key]
+        try:
+            self.params[t] = self.jsonres[key]
+        except Exception as e:
+            print('erro:没有'+key+'这个值')
+            traceback.print_exc()
 
     #计算处理的方法，将传入的value值作为s传入到__get_param方法中获取对应的值
     def __get_param(self,s):
@@ -67,14 +71,22 @@ class HTTP:
 
     def __get_data(self,s):
         #传入的参数s为'username=test2&password=test2'格式,先用&分割，结果为['username=test2', 'password=test2']
+
+        # 用来保存数据为字典模式：比如：'username=test2&password=test2' 转化为字段模式
+        dates = {}
         p =s.split('&')
         #循环
         for pp in p:
             #用等号分割为['username', 'test2']['password', 'test2']这个格式
             ppp =pp.split('=')
             #保存在dates字典中
-            self.dates[ppp[0]] = ppp[1]
-        return self.dates
+            try:
+                dates[ppp[0]] = ppp[1]
+            except Exception as e:
+                print('erro:参数传值不规范')
+                traceback.print_exc()
+
+        return dates
 
 
 
