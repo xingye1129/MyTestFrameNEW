@@ -66,8 +66,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1137" />
-    <option name="y" value="161" />
+    <option name="x" value="1139" />
+    <option name="y" value="300" />
     <option name="width" value="1306" />
     <option name="height" value="850" />
   </component>
@@ -91,6 +91,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
