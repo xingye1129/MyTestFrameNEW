@@ -7,3 +7,5 @@
 """
 
 print('暂未实现自动化框架')
+
+from Interface import test
