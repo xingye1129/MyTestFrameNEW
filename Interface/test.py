@@ -4,6 +4,8 @@ from Interface.WithInter import HTTP
 import inspect
 
 
+
+from common.test02 import HTTP
 http = HTTP()
 #登录首页
 http.post('http://47.102.153.86:8080/inter/HTTP//auth')

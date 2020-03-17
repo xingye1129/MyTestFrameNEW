@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 -*-
 import requests, json, traceback
-from common import logger
+
 
 class HTTP:
     """
@@ -9,7 +9,7 @@ class HTTP:
         at:2020/03/15
     """
 
-    def __init__(self,writer):
+    def __init__(self):
         # requests.packages.urllib3.disable_warnings()
         self.session = requests.session()
         # 定义实例变量，用来保存返回utf8编码的返回值
@@ -22,23 +22,9 @@ class HTTP:
         self.dates = {}
         self.url = ''
         #传入Write类的writer对象，用来写入测试用例
-        self.writer = writer
 
-    def seturl(self,u):
-        '''
-        #设置url的地址
-        :param u:url的host地址
-        :return:无
-        '''
 
-        if u.startswith('http') or u.startswith('https'):
-            self.url = u
-            self.writer.write(self.writer.row, 7, 'PASS')
-            self.writer.write(self.writer.row, 8, str(self.url))
-        else:
-            logger.error('url格式错误')
-            self.writer.write(self.writer.row, 7, 'FAIL')
-            self.writer.write(self.writer.row, 8, 'url格式错误')
+
 
     def post(self, url, d=None, j=None, encode='utf8'):
         """
@@ -49,26 +35,19 @@ class HTTP:
         :param encode:
         :return:
         """
-        if not (url.startswith('http') or url.startswith('https')):
-            url = self.url + '//' + url
         if d is None or d=='':
             pass
         else:
             d = self.__get_param(d)
             d = self.__get_data(d)
-
         res = self.session.post(url, d, j, verify=False)
         self.result = res.content.decode(encode)
         try:
             self.jsonres = json.loads(self.result)
-            self.writer.write(self.writer.row, 7, 'PASS')
-            self.writer.write(self.writer.row, 8, str(self.jsonres))
-        except Exception as e:
-            self.writer.write(self.writer.row, 7, 'FAIL')
-            self.writer.write(self.writer.row, 8, str(self.result))
 
-        # print(self.result)
-        # logger.info(self.result)
+        except Exception as e:
+            pass
+        print(self.result)
 
 
 
@@ -81,8 +60,7 @@ class HTTP:
         """
         value = self.__get_param(value)
         self.session.headers[key] = value
-        self.writer.write(self.writer.row, 7, 'PASS')
-        self.writer.write(self.writer.row, 8, str(self.session.headers))
+
 
     def removeheader(self,key):
         """
@@ -93,13 +71,10 @@ class HTTP:
 
         try:
             self.session.headers[key]
-            self.writer.write(self.writer.row, 7, 'PASS')
-            self.writer.write(self.writer.row, 8, str(self.session.headers))
+
         except Exception as e:
-            logger.error('没有' + key +'这个值')
-            self.writer.write(self.writer.row, 7, 'FAIL')
-            self.writer.write(self.writer.row, 8, str(self.session.headers))
-            logger.exception(e)
+            print('erro:没有' + key +'这个值')
+
 
 
 
@@ -116,13 +91,11 @@ class HTTP:
         except Exception as e:
             pass
         if res == str(value):
-            logger.info('Pass')
-            self.writer.write(self.writer.row, 7, 'PASS')
-            self.writer.write(self.writer.row, 8, res)
+            print('Pass')
+
         else:
-            logger.info('Fail')
-            self.writer.write(self.writer.row, 7, 'FAIL')
-            self.writer.write(self.writer.row, 8, '实际结果： ' + res + "  预期结果：" + value)
+            print('Fail')
+
 
     def savejson(self, key, t):
         """
@@ -134,13 +107,11 @@ class HTTP:
         # 将需要保存的参数的，保存为参数t的值
         try:
             self.params[t] = self.jsonres[key]
-            self.writer.write(self.writer.row, 7, 'PASS')
-            self.writer.write(self.writer.row, 8, str(self.params[t]))
+
         except Exception as e:
-            logger.error('没有' + key + '这个值')
-            self.writer.write(self.writer.row, 7, 'FAIL')
-            self.writer.write(self.writer.row, 8, str(self.jsonres))
-            logger.exception(e)
+            print('erro:没有' + key + '这个值')
+
+            traceback.print_exc()
 
     # 计算处理的方法，将传入的value值作为s传入到__get_param方法中获取对应的值
     def __get_param(self, s):
@@ -154,9 +125,9 @@ class HTTP:
 
     def __get_data(self, s):
         # 传入的参数s为'username=test2&password=test2'格式,先用&分割，结果为['username=test2', 'password=test2']
-
         # 用来保存数据为字典模式：比如：'username=test2&password=test2' 转化为字典模式
         dates = {}
+        print(s)
         p = s.split('&')
         # 循环
         for pp in p:
@@ -166,7 +137,7 @@ class HTTP:
             try:
                 dates[ppp[0]] = ppp[1]
             except Exception as e:
-                logger.error('erro:参数传值不规范')
-                logger.exception(e)
+                print('erro:参数传值不规范')
+                traceback.print_exc()
 
         return dates

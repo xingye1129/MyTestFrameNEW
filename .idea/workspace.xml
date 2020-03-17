@@ -2,12 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21f1df65-a8e8-4823-893b-bb2cbb1497f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Interface/WithInter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MyTestFrameNEW.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MyTestFrameNEW.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/Mail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/ReadTXT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/mysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/test02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/conf.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/userinfo.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface/WithInter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interface/WithInter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interface/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/test01.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/test01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/results/result-HTTP接口用例.xls" beforeDir="false" afterPath="$PROJECT_DIR$/lib/results/result-HTTP接口用例.xls" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mainrunner.py" beforeDir="false" afterPath="$PROJECT_DIR$/mainrunner.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,31 +27,42 @@
     <session id="267405502">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.19" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="5" />
+          <entry key="log" value="1" />
+          <entry key="properties" value="5" />
+          <entry key="py" value="27" />
+          <entry key="sql" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="5" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="5" />
+          <entry key="Python" value="27" />
+          <entry key="SQL" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="158" />
+          <entry key="properties" value="10" />
+          <entry key="py" value="11585" />
+          <entry key="sql" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="158" />
+          <entry key="Properties" value="10" />
+          <entry key="Python" value="11585" />
+          <entry key="SQL" value="37" />
         </counts>
       </usages-collector>
     </session>
@@ -54,26 +72,80 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mainrunner.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            <state relative-caret-position="1026">
+              <caret line="54" column="23" lean-forward="true" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
+              <folding>
+                <element signature="e#25#51#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Interface/WithInter.py">
+        <entry file="file://$PROJECT_DIR$/common/test01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="23" />
+            <state relative-caret-position="434">
+              <caret line="56" column="8" lean-forward="true" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-184">
+              <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+              <folding>
+                <element signature="e#24#49#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Interface/test.py">
+        <entry file="file://$PROJECT_DIR$/common/Mail.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+            <state relative-caret-position="169">
+              <caret line="76" column="53" lean-forward="true" selection-start-line="76" selection-start-column="53" selection-end-line="76" selection-end-column="53" />
+              <folding>
+                <element signature="e#24#49#0" expanded="true" />
+                <marker date="1584454411560" expanded="true" signature="234:235" ph="..." />
+                <marker date="1584454411560" expanded="true" signature="234:240" ph="..." />
+                <marker date="1584454411560" expanded="true" signature="1129:1134" ph="..." />
+                <marker date="1584454411560" expanded="true" signature="1129:1138" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf/conf.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="6" selection-start-line="13" selection-end-line="13" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/excel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="e#25#40#0" expanded="true" />
+                <marker date="1584368894638" expanded="true" signature="121:122" ph="..." />
+                <marker date="1584368894638" expanded="true" signature="121:127" ph="..." />
+                <marker date="1584368894638" expanded="true" signature="1041:1042" ph="..." />
+                <marker date="1584368894638" expanded="true" signature="1041:1046" ph="..." />
+                <marker date="1584368894638" expanded="true" signature="1041:1050" ph="..." />
+                <marker date="1584368894638" expanded="true" signature="1041:1232" ph="..." />
+                <marker date="1584368894638" expanded="true" signature="1251:1252" ph="..." />
+                <marker date="1584368894638" expanded="true" signature="1636:3733" ph="..." />
+                <marker date="1584368894638" expanded="true" signature="1705:1714" ph="..." />
+                <marker date="1584368894638" expanded="true" signature="2561:2570" ph="..." />
+                <marker date="1584368894638" expanded="true" signature="2730:2740" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,6 +159,24 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+      <find>assertequals</find>
+      <find>http</find>
+      <find>ty</find>
+      <find>__get_param</find>
+      <find>str(self.jsonres[key])</find>
+      <find>savejson</find>
+      <find>row</find>
+      <find>type</find>
+      <find>config</find>
+      <find>write</find>
+      <find>username</find>
+      <find>filenames</find>
+      <find>hostname</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -95,17 +185,27 @@
       <list>
         <option value="$PROJECT_DIR$/lib/test01.py" />
         <option value="$PROJECT_DIR$/lib/test02.py" />
-        <option value="$PROJECT_DIR$/Interface/WithInter.py" />
+        <option value="$PROJECT_DIR$/common/excel.py" />
+        <option value="$PROJECT_DIR$/common/test02.py" />
         <option value="$PROJECT_DIR$/Interface/test.py" />
+        <option value="$PROJECT_DIR$/Interface/WithInter.py" />
+        <option value="$PROJECT_DIR$/common/logger.py" />
+        <option value="$PROJECT_DIR$/common/ReadTXT.py" />
+        <option value="$PROJECT_DIR$/conf/userinfo.sql" />
+        <option value="$PROJECT_DIR$/common/mysql.py" />
         <option value="$PROJECT_DIR$/mainrunner.py" />
+        <option value="$PROJECT_DIR$/common/config.py" />
+        <option value="$PROJECT_DIR$/common/test01.py" />
+        <option value="$PROJECT_DIR$/conf/conf.properties" />
+        <option value="$PROJECT_DIR$/common/Mail.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="965" />
-    <option name="y" value="104" />
-    <option name="width" value="1306" />
-    <option name="height" value="850" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="211" />
+    <option name="y" value="78" />
+    <option name="width" value="1483" />
+    <option name="height" value="1061" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -122,7 +222,17 @@
             <path>
               <item name="MyTestFrameNEW" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyTestFrameNEW" type="462c0819:PsiDirectoryNode" />
-              <item name="Interface" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyTestFrameNEW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyTestFrameNEW" type="462c0819:PsiDirectoryNode" />
+              <item name="conf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyTestFrameNEW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyTestFrameNEW" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -132,8 +242,14 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyTestFrame" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Software\pychromework\MyTestFrameNEW\conf" />
+      <recent name="E:\Software\pychromework\MyTestFrameNEW\lib\cases" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -147,8 +263,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.mainrunner">
-    <configuration name="mainrunner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Mail">
+    <configuration name="Mail" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyTestFrameNEW" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,11 +272,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mainrunner.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/Mail.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,7 +285,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="config" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyTestFrameNEW" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -177,11 +293,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Interface" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interface/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/config.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,7 +306,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="logger" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyTestFrameNEW" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -198,11 +314,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/test01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/logger.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mysql" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyTestFrameNEW" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/mysql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyTestFrameNEW" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/test01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,15 +370,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.test01" />
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.mainrunner" />
+      <item itemvalue="Python.test01 (1)" />
+      <item itemvalue="Python.config" />
+      <item itemvalue="Python.mysql" />
+      <item itemvalue="Python.logger" />
+      <item itemvalue="Python.Mail" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.mainrunner" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.test01" />
+        <item itemvalue="Python.Mail" />
+        <item itemvalue="Python.config" />
+        <item itemvalue="Python.test01 (1)" />
+        <item itemvalue="Python.logger" />
+        <item itemvalue="Python.mysql" />
       </list>
     </recent_temporary>
   </component>
@@ -238,15 +400,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="965" y="104" width="1306" height="850" extended-state="1" />
+    <frame x="211" y="78" width="1483" height="1061" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21937716" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3279396" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4854369" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -264,30 +426,195 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/test01.py">
+    <entry file="file://$PROJECT_DIR$/lib/test01.py" />
+    <entry file="file://$PROJECT_DIR$/lib/test02.py" />
+    <entry file="file://E:/Program Files/drver/Python/Python37/Lib/site-packages/requests/sessions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="576" column="50" selection-start-line="576" selection-start-column="46" selection-end-line="576" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Program Files/drver/Python/Python37/Lib/site-packages/xlrd/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="46" column="79" lean-forward="true" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/logs/all.log">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/test02.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Interface/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#25#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/test02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1093">
+          <caret line="122" selection-start-line="122" selection-end-line="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/1990432292/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="352" column="49" selection-start-line="352" selection-start-column="41" selection-end-line="352" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+          <folding>
+            <element signature="e#24#38#0" expanded="true" />
+            <marker date="1584447568971" expanded="true" signature="822:1564" ph="..." />
+            <marker date="1584447568971" expanded="true" signature="1607:1616" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/userinfo.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/ReadTXT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
+          <folding>
+            <marker date="1584435923427" expanded="true" signature="63:64" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="64" column="20" lean-forward="true" selection-start-line="64" selection-start-column="20" selection-end-line="64" selection-end-column="20" />
+          <folding>
+            <marker date="1584428986823" expanded="true" signature="950:1017" ph="..." />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Interface/WithInter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-column="23" />
+          <folding>
+            <element signature="e#24#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#25#40#0" expanded="true" />
+            <marker date="1584368894638" expanded="true" signature="121:122" ph="..." />
+            <marker date="1584368894638" expanded="true" signature="121:127" ph="..." />
+            <marker date="1584368894638" expanded="true" signature="1041:1042" ph="..." />
+            <marker date="1584368894638" expanded="true" signature="1041:1046" ph="..." />
+            <marker date="1584368894638" expanded="true" signature="1041:1050" ph="..." />
+            <marker date="1584368894638" expanded="true" signature="1041:1232" ph="..." />
+            <marker date="1584368894638" expanded="true" signature="1251:1252" ph="..." />
+            <marker date="1584368894638" expanded="true" signature="1636:3733" ph="..." />
+            <marker date="1584368894638" expanded="true" signature="1705:1714" ph="..." />
+            <marker date="1584368894638" expanded="true" signature="2561:2570" ph="..." />
+            <marker date="1584368894638" expanded="true" signature="2730:2740" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Program Files/drver/Python/Python37/Lib/smtplib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="286" column="8" lean-forward="true" selection-start-line="286" selection-start-column="8" selection-end-line="292" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Program Files/drver/Python/Python37/Lib/email/mime/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Program Files/drver/Python/Python37/Lib/email/mime/nonmultipart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="45" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="45" />
+          <folding>
+            <element signature="e#206#230#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/test01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="56" column="8" lean-forward="true" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Program Files/drver/Python/Python37/Lib/email/message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="149" column="11" lean-forward="true" selection-start-line="137" selection-start-column="8" selection-end-line="149" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-184">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding>
+            <element signature="e#24#49#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mainrunner.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        <state relative-caret-position="1026">
+          <caret line="54" column="23" lean-forward="true" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
+          <folding>
+            <element signature="e#25#51#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Interface/test.py">
+    <entry file="file://$PROJECT_DIR$/conf/conf.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        <state relative-caret-position="247">
+          <caret line="13" column="6" selection-start-line="13" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/Mail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="76" column="53" lean-forward="true" selection-start-line="76" selection-start-column="53" selection-end-line="76" selection-end-column="53" />
+          <folding>
+            <element signature="e#24#49#0" expanded="true" />
+            <marker date="1584454411560" expanded="true" signature="234:235" ph="..." />
+            <marker date="1584454411560" expanded="true" signature="234:240" ph="..." />
+            <marker date="1584454411560" expanded="true" signature="1129:1134" ph="..." />
+            <marker date="1584454411560" expanded="true" signature="1129:1138" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

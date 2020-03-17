@@ -5,7 +5,6 @@ from xlutils.copy import copy
 
 
 class Read:
-
     """
     用来读取excel文件中的内容
     """
@@ -72,56 +71,53 @@ class Read:
 
 
 class Write:
-
     """
     用来写入的excel文件，保存在新的文件夹中
     """
 
     def __init__(self):
-        #读取需要复制的excel，保存在workbook缓存中
+        # 读取需要复制的excel，保存在workbook缓存中
         self.workbook = None
-        #拷贝的工作空间
+        # 拷贝的工作空间
         self.wb = None
-        #记录生成的文件，用来保存
+        # 记录生成的文件，用来保存
         self.df = None
-        #当前的sheet
+        # 当前的sheet
         self.sheet = None
         self.row = 0
         self.col = 0
 
-    def cope_open(self,startfile,endfile):
+    def cope_open(self, startfile, endfile):
 
         if not os.path.isfile(startfile):
             print("erro:源文件" + startfile + "not exist!")
             return
-        if  os.path.isfile(endfile):
+        if os.path.isfile(endfile):
             print('erro:目标文件' + endfile + "file is exist!")
 
-        #记录要保存的文件
+        # 记录要保存的文件
         self.df = endfile
 
-        #读取到excel缓存，formatting_info带原有文件格式的形式
-        self.workbook = xlrd.open_workbook(filename=startfile,formatting_info=True)
+        # 读取到excel缓存，formatting_info带原有文件格式的形式
+        self.workbook = xlrd.open_workbook(filename=startfile, formatting_info=True)
 
-        #拷贝
+        # 拷贝
         self.wb = copy(self.workbook)
-        #默认使用第一个sheet
+        # 默认使用第一个sheet
         # sheet = self.wb.get_sheet('授权接口')
         # print(sheet)
 
-
-    #获取sheet页面
+    # 获取sheet页面
     def get_sheets(self):
-        #获取所有sheet页的名字，并返回一个列表
+        # 获取所有sheet页的名字，并返回一个列表
         sheets = self.workbook.sheet_names()
         # print(sheets)
         return sheets
 
+    # 切换sheet页
+    def set_sheets(self, name):
 
-    #切换sheet页
-    def set_sheets(self,name):
-
-        #通过sheet页的名字,切换到sheet页面
+        # 通过sheet页的名字,切换到sheet页面
         self.sheet = self.wb.get_sheet(name)
 
         return self.sheet
@@ -134,7 +130,7 @@ class Write:
             row = sheet._Worksheet__rows.get(rowIndex)
             if not row:
                 return None
-            #获取单元格
+            # 获取单元格
             cell = row._Row__cells.get(colIndex)
             return cell
 
@@ -158,7 +154,6 @@ class Write:
         self.wb.save(self.df)
 
 
-
 if __name__ == '__main__':
 
     read = Read()
@@ -173,6 +168,5 @@ if __name__ == '__main__':
     writer.cope_open('../lib/cases/HTTP接口用例.xls', '../lib/results/result-HTTP接口用例.xls')
     sheetname = writer.get_sheets()
     writer.set_sheets(sheetname[0])
-    writer.write(1,1,'xingye')
+    writer.write(1, 1, 'xingye')
     writer.save_close()
-

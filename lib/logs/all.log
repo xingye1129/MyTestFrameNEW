@@ -1,0 +1,1568 @@
+sssssss
+sssssss
+sssssss
+2020-03-17 13:54:19 - DEBUG - sssssss
+2020-03-17 13:55:26 - DEBUG - 222
+2020-03-17 13:56:08 - DEBUG - wwwww
+2020-03-17 13:56:13 - DEBUG - wwwww
+2020-03-17 13:57:09 - DEBUG - wwwww
+2020-03-17 13:57:09 - INFO - 成功
+2020-03-17 13:57:21 - DEBUG - wwwww
+2020-03-17 13:57:21 - INFO - 成功
+2020-03-17 14:00:24 - DEBUG - wwwww
+2020-03-17 14:00:24 - INFO - 成功
+2020-03-17 14:00:24 - ERROR - ererererer
+2020-03-17 14:00:24 - ERROR - wwwww
+NoneType: None
+2020-03-17 14:00:32 - DEBUG - wwwww
+2020-03-17 14:00:32 - INFO - 成功
+2020-03-17 14:00:32 - ERROR - ererererer
+2020-03-17 14:00:32 - ERROR - wwwww
+NoneType: None
+2020-03-17 14:01:37 - DEBUG - wwwww
+2020-03-17 14:01:37 - INFO - 成功
+2020-03-17 14:01:37 - ERROR - ererererer
+2020-03-17 14:01:37 - ERROR - unsupported operand type(s) for +: 'int' and 'str'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/logger.py", line 63, in <module>
+    print(1 + '2')
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+2020-03-17 14:02:06 - DEBUG - wwwww
+2020-03-17 14:02:06 - INFO - 成功
+2020-03-17 14:02:06 - WARNING - wwww
+2020-03-17 14:02:06 - ERROR - ererererer
+2020-03-17 14:02:06 - ERROR - unsupported operand type(s) for +: 'int' and 'str'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/logger.py", line 63, in <module>
+    print(1 + '2')
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+2020-03-17 14:07:40 - DEBUG - Starting new HTTP connection (1): 47.102.153.86:8080
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 30
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 60
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 30
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//logout HTTP/1.1" 200 44
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 60
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 50
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//logout HTTP/1.1" 200 44
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 60
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//logout HTTP/1.1" 200 44
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:07:40 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:07:40 - INFO - Pass
+2020-03-17 14:07:41 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:07:41 - INFO - Pass
+2020-03-17 14:07:41 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:07:41 - INFO - Pass
+2020-03-17 14:07:41 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 60
+2020-03-17 14:07:41 - INFO - Pass
+2020-03-17 14:07:41 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//logout HTTP/1.1" 200 44
+2020-03-17 14:07:41 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:07:41 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:07:41 - INFO - Pass
+2020-03-17 14:07:41 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//logout HTTP/1.1" 200 44
+2020-03-17 14:07:41 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:07:41 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:07:41 - INFO - Pass
+2020-03-17 14:07:41 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//logout HTTP/1.1" 200 44
+2020-03-17 14:07:41 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:07:41 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//register HTTP/1.1" 200 41
+2020-03-17 14:07:41 - INFO - Fail
+2020-03-17 14:07:41 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 61
+2020-03-17 14:07:41 - INFO - Pass
+2020-03-17 14:07:41 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//getUserInfo HTTP/1.1" 200 130
+2020-03-17 14:07:41 - INFO - Pass
+2020-03-17 14:07:41 - INFO - Pass
+2020-03-17 14:07:41 - INFO - Pass
+2020-03-17 14:07:41 - INFO - Pass
+2020-03-17 14:07:41 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//logout HTTP/1.1" 200 44
+2020-03-17 14:07:41 - INFO - Pass
+2020-03-17 14:07:41 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//getUserInfo HTTP/1.1" 200 35
+2020-03-17 14:07:41 - INFO - Pass
+2020-03-17 14:09:25 - DEBUG - Starting new HTTP connection (1): 47.102.153.86:8080
+2020-03-17 14:09:25 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:09:25 - INFO - Pass
+2020-03-17 14:09:25 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:09:25 - INFO - Pass
+2020-03-17 14:09:25 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:09:25 - INFO - Pass
+2020-03-17 14:09:25 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:09:25 - INFO - Pass
+2020-03-17 14:09:25 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:09:25 - INFO - Pass
+2020-03-17 14:09:25 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 30
+2020-03-17 14:09:25 - INFO - Pass
+2020-03-17 14:09:25 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 60
+2020-03-17 14:09:25 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 30
+2020-03-17 14:09:25 - INFO - Pass
+2020-03-17 14:09:25 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//logout HTTP/1.1" 200 44
+2020-03-17 14:09:25 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:09:25 - INFO - Pass
+2020-03-17 14:09:25 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:09:25 - INFO - Pass
+2020-03-17 14:09:25 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:09:25 - INFO - Pass
+2020-03-17 14:09:25 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:09:25 - INFO - Pass
+2020-03-17 14:09:25 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 60
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 50
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//logout HTTP/1.1" 200 44
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 60
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//logout HTTP/1.1" 200 44
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 60
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//logout HTTP/1.1" 200 44
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//logout HTTP/1.1" 200 44
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//logout HTTP/1.1" 200 44
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//register HTTP/1.1" 200 41
+2020-03-17 14:09:26 - INFO - Fail
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 61
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//getUserInfo HTTP/1.1" 200 130
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//logout HTTP/1.1" 200 44
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:09:26 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//getUserInfo HTTP/1.1" 200 35
+2020-03-17 14:09:26 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-17 14:11:37 - INFO - ['异常token', 'HTTP', 'HTTP接口自动化报告', '', '', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '基础设置', '', ' ', '', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '设置地址', 'seturl', 'http://47.102.153.86:8080/inter/HTTP', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', 'token边界值', '', ' ', '', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '没有字段', 'post', 'auth', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - Starting new HTTP connection (1): 47.102.153.86:8080
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:11:37 - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', '', '添加头', 'addheader', 'token', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '空token', 'post', 'auth', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:11:37 - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', '', '添加头', 'addheader', 'token', 'a', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '一位长度', 'post', 'auth', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:11:37 - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', '', '添加头', 'addheader', 'token', 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', 'token过长', 'post', 'auth', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:11:37 - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', 'token等价类', '', ' ', '', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '添加头', 'addheader', 'token', '109f1a34bdcf4785b6c70a9917d7a49d', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', 'token未授权', 'post', 'auth', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:11:37 - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', '', '保存返回的token', 'savejson', 'token', 'token', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '添加头', 'addheader', 'token', '{token}', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', 'token已经授权', 'post', 'auth', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 30
+2020-03-17 14:11:37 - INFO - ['', '', '校验', 'assertequals', 'status', '201', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', '', '登录', 'post', 'login', 'username=xingye&password=123456', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 60
+2020-03-17 14:11:37 - INFO - ['', '', 'token已经登录', 'post', 'auth', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 30
+2020-03-17 14:11:37 - INFO - ['', '', '校验', 'assertequals', 'status', '202', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', '', '注销', 'post', 'logout', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//logout HTTP/1.1" 200 44
+2020-03-17 14:11:37 - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果', '']
+2020-03-17 14:11:37 - INFO - ['token校验', '', '', '', '', '', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '基础设置', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '设置地址', 'seturl', 'http://47.102.153.86:8080/inter/HTTP', '', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '无token', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '删除头', 'removeheader', 'token', '', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '无token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', 'token值为空', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '添加头', 'addheader', 'token', '', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '空token', 'post', 'login', '', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', 'token过长', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '更新头', 'addheader', 'token', 'adsfklajfkalfkalfaklsdjfkadsljfklasdfjaldsfjklasdfjkdsajfklds', ' ', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', 'token过长', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', 'token未授权', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '更新头', 'addheader', 'token', '0d862fe621ae4bca86489a554945b202', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '有效token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', 'token已经授权', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:11:37 - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '有效token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 60
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', 'token已经登录', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '有效token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 50
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '406', '', '', '', '修改引入的bug']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//logout HTTP/1.1" 200 44
+2020-03-17 14:11:37 - INFO - ['', 'token超时失效', '需要手动测试', ' ', '', '', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['用户名字段', '', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '无用户名', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '添加头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:11:37 - INFO - ['', '', '保存token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '无用户名', 'post', 'login', 'password=123456', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', '用户名为空', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '空用户名', 'post', 'login', 'username=&password=123456', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', '用户名特殊字符', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '用户名特殊字符', 'post', 'login', 'username=#￥%a&password=123456', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', '', '用户名特殊字符', 'post', 'login', 'username=큐〓㊚a&password=123456', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', '', '用户名emoji表情', 'post', 'login', 'username=Wil🚣l&password=123456', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', '用户名边界值', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '用户名2位', 'post', 'login', 'username=ll&password=123456', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', '', '用户名3位', 'post', 'login', 'username=ill&password=123456', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', '', '用户名16位', 'post', 'login', 'username=xingyexingyexingyexingye&password=123456', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', '', '用户名17位', 'post', 'login', 'username=W1illxingyexingyexingye&password=123456', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', '', '用户名过长', 'post', 'login', 'username=W1illxingyexingyexingyeW1illxingyexingyexingyeW1illxingyexingyexingyeW1illxingyexingyexingye&password=123456', ' ', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['密码字段', '', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '无密码', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '无密码', 'post', 'login', 'username=xingye', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', '密码为空', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '空密码', 'post', 'login', 'username=xingye&password=', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', '密码特殊字符', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '密码特殊字符', 'post', 'login', 'username=xingye&password=#￥%a', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', '', '密码特殊字符', 'post', 'login', 'username=xingye&password=큐〓㊚a', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', '', '密码emoji表情', 'post', 'login', 'username=xingye&password=🚣adaa', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', '密码边界值', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '密码2位', 'post', 'login', 'username=xingye&password=12', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', '', '密码3位', 'post', 'login', 'username=xingye&password=123', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', '', '密码16位', 'post', 'login', 'username=xingye&password=1234561234561234', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', '', '密码17位', 'post', 'login', 'username=xingye&password=12345612345612345', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', '', '密码过长', 'post', 'login', 'username=xingye&password=123456123456123456123456123456123456123456123456', ' ', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', '字段测试', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '无用户名密码', 'post', 'login', '', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 35
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', '', '3个字段', 'post', 'login', 'username=xingye&aaa=bbb&password=123456', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 60
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//logout HTTP/1.1" 200 44
+2020-03-17 14:11:37 - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:11:37 - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['等价类', '', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '等价类用例', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '用户名密码错误', 'post', 'login', 'username=xingye&password=1253', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', '', '用户名不存在', 'post', 'login', 'username=Wilil&password=123456', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', '', '用户名密码不匹配', 'post', 'login', 'username=xingye&password=tufei', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['', '', '用户名密码正确', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 60
+2020-03-17 14:11:37 - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '', '']
+2020-03-17 14:11:37 - INFO - Pass
+2020-03-17 14:11:37 - INFO - ['SQL注入', '', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', 'SQL注入', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//logout HTTP/1.1" 200 44
+2020-03-17 14:11:37 - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-17 14:11:37 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:11:37 - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-17 14:11:37 - INFO - ['', '', '用户名注入', 'post', 'login', "username=xingye' or 1=1 #&password=123456", '', '', '', '']
+2020-03-17 14:11:38 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:11:38 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', 'SQL注入未修复']
+2020-03-17 14:11:38 - INFO - Pass
+2020-03-17 14:11:38 - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-17 14:11:38 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//logout HTTP/1.1" 200 44
+2020-03-17 14:11:38 - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-17 14:11:38 - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-17 14:11:38 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:11:38 - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-17 14:11:38 - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-17 14:11:38 - INFO - ['', '', '密码注入', 'post', 'login', "username=xingye&password=123456' or 1=1 #", '', '', '', '']
+2020-03-17 14:11:38 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 44
+2020-03-17 14:11:38 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:11:38 - INFO - Pass
+2020-03-17 14:11:38 - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-17 14:11:38 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//logout HTTP/1.1" 200 44
+2020-03-17 14:11:38 - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-17 14:11:38 - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-17 14:11:38 - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-17 14:11:38 - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-17 14:11:38 - INFO - ['注册用户', '', '', ' ', '', '', '', '', '']
+2020-03-17 14:11:38 - INFO - ['', '注册用户', '', ' ', '', '', '', '', '']
+2020-03-17 14:11:38 - INFO - ['', '', '设置地址', 'seturl', 'http://47.102.153.86:8080/inter/HTTP', '', '', '', '']
+2020-03-17 14:11:38 - INFO - ['', '', '添加头', 'addheader', 'token', 'null', '', '', '']
+2020-03-17 14:11:38 - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '']
+2020-03-17 14:11:38 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//auth HTTP/1.1" 200 73
+2020-03-17 14:11:38 - INFO - ['', '', '保存token', 'savejson', 'token', 'token', '', '', '']
+2020-03-17 14:11:38 - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '']
+2020-03-17 14:11:38 - INFO - ['', '', '注册', 'post', 'register', 'username=Tester55&pwd=123456&nickname=测试账号&describe=这个账号，是一个测试注册的账号', '', '', '']
+2020-03-17 14:11:38 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//register HTTP/1.1" 200 41
+2020-03-17 14:11:38 - INFO - ['', '', '校验注册', 'assertequals', 'status', '200', '', '', '']
+2020-03-17 14:11:38 - INFO - Fail
+2020-03-17 14:11:38 - INFO - ['登录', '', '', ' ', '', 'SS', '', '', '']
+2020-03-17 14:11:38 - INFO - ['', '登录', '', ' ', '', '', '', '', '']
+2020-03-17 14:11:38 - INFO - ['', '', '登录', 'post', 'login', 'username=Tester55&password=123456', '', '', '']
+2020-03-17 14:11:38 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//login HTTP/1.1" 200 61
+2020-03-17 14:11:38 - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '']
+2020-03-17 14:11:38 - INFO - Pass
+2020-03-17 14:11:38 - INFO - ['', '', '保存id', 'savejson', 'userid', 'id', '', '', '']
+2020-03-17 14:11:38 - INFO - ['获取用户信息', '', '', ' ', '', '', '', '', '']
+2020-03-17 14:11:38 - INFO - ['', '获取用户信息', '', ' ', '', '', '', '', '']
+2020-03-17 14:11:38 - INFO - ['', '', '获取用户信息', 'post', 'getUserInfo', 'id={id}', '', '', '']
+2020-03-17 14:11:38 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//getUserInfo HTTP/1.1" 200 130
+2020-03-17 14:11:38 - INFO - ['', '', '校验用户信息', 'assertequals', 'status', '200', '', '', '']
+2020-03-17 14:11:38 - INFO - Pass
+2020-03-17 14:11:38 - INFO - ['', '', '校验用户id', 'assertequals', 'id', '{id}', '', '', '']
+2020-03-17 14:11:38 - INFO - Pass
+2020-03-17 14:11:38 - INFO - ['', '', '校验用户昵称', 'assertequals', 'nickname', '测试账号', '', '', '']
+2020-03-17 14:11:38 - INFO - Pass
+2020-03-17 14:11:38 - INFO - ['', '', '校验用户描述', 'assertequals', 'describe', '这个账号，是一个测试注册的账号', '', '', '']
+2020-03-17 14:11:38 - INFO - Pass
+2020-03-17 14:11:38 - INFO - ['注销', '', '', ' ', '', '', '', '', '']
+2020-03-17 14:11:38 - INFO - ['', '注销', '', ' ', '', '', '', '', '']
+2020-03-17 14:11:38 - INFO - ['', '', '登出', 'post', 'logout', '', '', '', '']
+2020-03-17 14:11:38 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//logout HTTP/1.1" 200 44
+2020-03-17 14:11:38 - INFO - ['', '', '校验登出', 'assertequals', 'status', '200', '', '', '']
+2020-03-17 14:11:38 - INFO - Pass
+2020-03-17 14:11:38 - INFO - ['', '', '校验登录态', 'post', 'getUserInfo', 'id={id}', '', '', '']
+2020-03-17 14:11:38 - DEBUG - http://47.102.153.86:8080 "POST /inter/HTTP//getUserInfo HTTP/1.1" 200 35
+2020-03-17 14:11:38 - INFO - ['', '', '校验用户信息', 'assertequals', 'status', '405', '', '', '']
+2020-03-17 14:11:38 - INFO - Pass
+2020-03-17 14:12:59 - INFO - 成功
+2020-03-17 14:12:59 - WARNING - wwww
+2020-03-17 14:12:59 - ERROR - ererererer
+2020-03-17 14:12:59 - ERROR - unsupported operand type(s) for +: 'int' and 'str'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/logger.py", line 63, in <module>
+    print(1 + '2')
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+2020-03-17 14:13:31 - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-17 14:13:31 - INFO - ['异常token', 'HTTP', 'HTTP接口自动化报告', '', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '基础设置', '', ' ', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '设置地址', 'seturl', 'http://47.102.153.86:8080/inter/HTTP', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', 'token边界值', '', ' ', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '没有字段', 'post', 'auth', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '', '添加头', 'addheader', 'token', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '空token', 'post', 'auth', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '', '添加头', 'addheader', 'token', 'a', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '一位长度', 'post', 'auth', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '', '添加头', 'addheader', 'token', 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', 'token过长', 'post', 'auth', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', 'token等价类', '', ' ', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '添加头', 'addheader', 'token', '109f1a34bdcf4785b6c70a9917d7a49d', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', 'token未授权', 'post', 'auth', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '', '保存返回的token', 'savejson', 'token', 'token', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '添加头', 'addheader', 'token', '{token}', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', 'token已经授权', 'post', 'auth', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验', 'assertequals', 'status', '201', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '', '登录', 'post', 'login', 'username=xingye&password=123456', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', 'token已经登录', 'post', 'auth', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验', 'assertequals', 'status', '202', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '', '注销', 'post', 'logout', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果', '']
+2020-03-17 14:13:31 - INFO - ['token校验', '', '', '', '', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '基础设置', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '设置地址', 'seturl', 'http://47.102.153.86:8080/inter/HTTP', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '无token', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '删除头', 'removeheader', 'token', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '无token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', 'token值为空', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '添加头', 'addheader', 'token', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '空token', 'post', 'login', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', 'token过长', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '更新头', 'addheader', 'token', 'adsfklajfkalfkalfaklsdjfkadsljfklasdfjaldsfjklasdfjkdsajfklds', ' ', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', 'token过长', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', 'token未授权', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '更新头', 'addheader', 'token', '0d862fe621ae4bca86489a554945b202', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '有效token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', 'token已经授权', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '有效token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', 'token已经登录', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '有效token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '406', '', '', '', '修改引入的bug']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', 'token超时失效', '需要手动测试', ' ', '', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['用户名字段', '', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '无用户名', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '添加头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '保存token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '无用户名', 'post', 'login', 'password=123456', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '用户名为空', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '空用户名', 'post', 'login', 'username=&password=123456', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '用户名特殊字符', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '用户名特殊字符', 'post', 'login', 'username=#￥%a&password=123456', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '', '用户名特殊字符', 'post', 'login', 'username=큐〓㊚a&password=123456', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '', '用户名emoji表情', 'post', 'login', 'username=Wil🚣l&password=123456', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '用户名边界值', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '用户名2位', 'post', 'login', 'username=ll&password=123456', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '', '用户名3位', 'post', 'login', 'username=ill&password=123456', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '', '用户名16位', 'post', 'login', 'username=xingyexingyexingyexingye&password=123456', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '', '用户名17位', 'post', 'login', 'username=W1illxingyexingyexingye&password=123456', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '', '用户名过长', 'post', 'login', 'username=W1illxingyexingyexingyeW1illxingyexingyexingyeW1illxingyexingyexingyeW1illxingyexingyexingye&password=123456', ' ', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['密码字段', '', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '无密码', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '无密码', 'post', 'login', 'username=xingye', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '密码为空', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '空密码', 'post', 'login', 'username=xingye&password=', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '密码特殊字符', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '密码特殊字符', 'post', 'login', 'username=xingye&password=#￥%a', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '', '密码特殊字符', 'post', 'login', 'username=xingye&password=큐〓㊚a', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '', '密码emoji表情', 'post', 'login', 'username=xingye&password=🚣adaa', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '密码边界值', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '密码2位', 'post', 'login', 'username=xingye&password=12', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '', '密码3位', 'post', 'login', 'username=xingye&password=123', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '', '密码16位', 'post', 'login', 'username=xingye&password=1234561234561234', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '', '密码17位', 'post', 'login', 'username=xingye&password=12345612345612345', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '', '密码过长', 'post', 'login', 'username=xingye&password=123456123456123456123456123456123456123456123456', ' ', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '字段测试', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '无用户名密码', 'post', 'login', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '', '3个字段', 'post', 'login', 'username=xingye&aaa=bbb&password=123456', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['等价类', '', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '等价类用例', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '用户名密码错误', 'post', 'login', 'username=xingye&password=1253', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '', '用户名不存在', 'post', 'login', 'username=Wilil&password=123456', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '', '用户名密码不匹配', 'post', 'login', 'username=xingye&password=tufei', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '', '用户名密码正确', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['SQL注入', '', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', 'SQL注入', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '用户名注入', 'post', 'login', "username=xingye' or 1=1 #&password=123456", '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', 'SQL注入未修复']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '密码注入', 'post', 'login', "username=xingye&password=123456' or 1=1 #", '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:13:31 - INFO - Pass
+2020-03-17 14:13:31 - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-17 14:13:31 - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-17 14:13:31 - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-17 14:13:31 - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-17 14:13:31 - INFO - ['注册用户', '', '', ' ', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '注册用户', '', ' ', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '设置地址', 'seturl', 'http://47.102.153.86:8080/inter/HTTP', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '添加头', 'addheader', 'token', 'null', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '保存token', 'savejson', 'token', 'token', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '注册', 'post', 'register', 'username=Tester55&pwd=123456&nickname=测试账号&describe=这个账号，是一个测试注册的账号', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '校验注册', 'assertequals', 'status', '200', '', '', '']
+2020-03-17 14:13:31 - INFO - Fail
+2020-03-17 14:13:31 - INFO - ['登录', '', '', ' ', '', 'SS', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '登录', '', ' ', '', '', '', '', '']
+2020-03-17 14:13:31 - INFO - ['', '', '登录', 'post', 'login', 'username=Tester55&password=123456', '', '', '']
+2020-03-17 14:13:32 - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '']
+2020-03-17 14:13:32 - INFO - Pass
+2020-03-17 14:13:32 - INFO - ['', '', '保存id', 'savejson', 'userid', 'id', '', '', '']
+2020-03-17 14:13:32 - INFO - ['获取用户信息', '', '', ' ', '', '', '', '', '']
+2020-03-17 14:13:32 - INFO - ['', '获取用户信息', '', ' ', '', '', '', '', '']
+2020-03-17 14:13:32 - INFO - ['', '', '获取用户信息', 'post', 'getUserInfo', 'id={id}', '', '', '']
+2020-03-17 14:13:32 - INFO - ['', '', '校验用户信息', 'assertequals', 'status', '200', '', '', '']
+2020-03-17 14:13:32 - INFO - Pass
+2020-03-17 14:13:32 - INFO - ['', '', '校验用户id', 'assertequals', 'id', '{id}', '', '', '']
+2020-03-17 14:13:32 - INFO - Pass
+2020-03-17 14:13:32 - INFO - ['', '', '校验用户昵称', 'assertequals', 'nickname', '测试账号', '', '', '']
+2020-03-17 14:13:32 - INFO - Pass
+2020-03-17 14:13:32 - INFO - ['', '', '校验用户描述', 'assertequals', 'describe', '这个账号，是一个测试注册的账号', '', '', '']
+2020-03-17 14:13:32 - INFO - Pass
+2020-03-17 14:13:32 - INFO - ['注销', '', '', ' ', '', '', '', '', '']
+2020-03-17 14:13:32 - INFO - ['', '注销', '', ' ', '', '', '', '', '']
+2020-03-17 14:13:32 - INFO - ['', '', '登出', 'post', 'logout', '', '', '', '']
+2020-03-17 14:13:32 - INFO - ['', '', '校验登出', 'assertequals', 'status', '200', '', '', '']
+2020-03-17 14:13:32 - INFO - Pass
+2020-03-17 14:13:32 - INFO - ['', '', '校验登录态', 'post', 'getUserInfo', 'id={id}', '', '', '']
+2020-03-17 14:13:32 - INFO - ['', '', '校验用户信息', 'assertequals', 'status', '405', '', '', '']
+2020-03-17 14:13:32 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-17 14:20:54 - INFO - ['异常token', 'HTTP', 'HTTP接口自动化报告', '', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '基础设置', '', ' ', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '设置地址', 'seturl', 'http://47.102.153.86:8080/inter/HTTP', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', 'token边界值', '', ' ', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '没有字段', 'post', 'auth', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '', '添加头', 'addheader', 'token', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '空token', 'post', 'auth', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '', '添加头', 'addheader', 'token', 'a', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '一位长度', 'post', 'auth', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '', '添加头', 'addheader', 'token', 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', 'token过长', 'post', 'auth', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', 'token等价类', '', ' ', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '添加头', 'addheader', 'token', '109f1a34bdcf4785b6c70a9917d7a49d', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', 'token未授权', 'post', 'auth', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '', '保存返回的token', 'savejson', 'token', 'token', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '添加头', 'addheader', 'token', '{token}', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', 'token已经授权', 'post', 'auth', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验', 'assertequals', 'status', '201', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '', '登录', 'post', 'login', 'username=xingye&password=123456', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', 'token已经登录', 'post', 'auth', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验', 'assertequals', 'status', '202', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '', '注销', 'post', 'logout', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果', '']
+2020-03-17 14:20:54 - INFO - ['token校验', '', '', '', '', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '基础设置', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '设置地址', 'seturl', 'http://47.102.153.86:8080/inter/HTTP', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '无token', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '删除头', 'removeheader', 'token', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '无token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', 'token值为空', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '添加头', 'addheader', 'token', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '空token', 'post', 'login', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', 'token过长', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '更新头', 'addheader', 'token', 'adsfklajfkalfkalfaklsdjfkadsljfklasdfjaldsfjklasdfjkdsajfklds', ' ', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', 'token过长', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', 'token未授权', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '更新头', 'addheader', 'token', '0d862fe621ae4bca86489a554945b202', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '有效token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', 'token已经授权', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '有效token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', 'token已经登录', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '有效token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '406', '', '', '', '修改引入的bug']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', 'token超时失效', '需要手动测试', ' ', '', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['用户名字段', '', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '无用户名', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '添加头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '保存token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '无用户名', 'post', 'login', 'password=123456', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '用户名为空', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '空用户名', 'post', 'login', 'username=&password=123456', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '用户名特殊字符', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '用户名特殊字符', 'post', 'login', 'username=#￥%a&password=123456', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '', '用户名特殊字符', 'post', 'login', 'username=큐〓㊚a&password=123456', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '', '用户名emoji表情', 'post', 'login', 'username=Wil🚣l&password=123456', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '用户名边界值', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '用户名2位', 'post', 'login', 'username=ll&password=123456', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '', '用户名3位', 'post', 'login', 'username=ill&password=123456', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '', '用户名16位', 'post', 'login', 'username=xingyexingyexingyexingye&password=123456', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '', '用户名17位', 'post', 'login', 'username=W1illxingyexingyexingye&password=123456', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '', '用户名过长', 'post', 'login', 'username=W1illxingyexingyexingyeW1illxingyexingyexingyeW1illxingyexingyexingyeW1illxingyexingyexingye&password=123456', ' ', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['密码字段', '', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '无密码', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '无密码', 'post', 'login', 'username=xingye', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '密码为空', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '空密码', 'post', 'login', 'username=xingye&password=', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '密码特殊字符', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '密码特殊字符', 'post', 'login', 'username=xingye&password=#￥%a', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '', '密码特殊字符', 'post', 'login', 'username=xingye&password=큐〓㊚a', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '', '密码emoji表情', 'post', 'login', 'username=xingye&password=🚣adaa', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '密码边界值', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '密码2位', 'post', 'login', 'username=xingye&password=12', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '', '密码3位', 'post', 'login', 'username=xingye&password=123', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '', '密码16位', 'post', 'login', 'username=xingye&password=1234561234561234', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '', '密码17位', 'post', 'login', 'username=xingye&password=12345612345612345', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '', '密码过长', 'post', 'login', 'username=xingye&password=123456123456123456123456123456123456123456123456', ' ', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '字段测试', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '无用户名密码', 'post', 'login', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '', '3个字段', 'post', 'login', 'username=xingye&aaa=bbb&password=123456', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['等价类', '', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '等价类用例', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '用户名密码错误', 'post', 'login', 'username=xingye&password=1253', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '', '用户名不存在', 'post', 'login', 'username=Wilil&password=123456', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '', '用户名密码不匹配', 'post', 'login', 'username=xingye&password=tufei', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '', '用户名密码正确', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '', '']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['SQL注入', '', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', 'SQL注入', '', ' ', '', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '用户名注入', 'post', 'login', "username=xingye' or 1=1 #&password=123456", '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', 'SQL注入未修复']
+2020-03-17 14:20:54 - INFO - Pass
+2020-03-17 14:20:54 - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-17 14:20:54 - INFO - ['', '', '密码注入', 'post', 'login', "username=xingye&password=123456' or 1=1 #", '', '', '', '']
+2020-03-17 14:20:55 - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-17 14:20:55 - INFO - Pass
+2020-03-17 14:20:55 - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-17 14:20:55 - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-17 14:20:55 - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-17 14:20:55 - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-17 14:20:55 - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-17 14:20:55 - INFO - ['注册用户', '', '', ' ', '', '', '', '', '']
+2020-03-17 14:20:55 - INFO - ['', '注册用户', '', ' ', '', '', '', '', '']
+2020-03-17 14:20:55 - INFO - ['', '', '设置地址', 'seturl', 'http://47.102.153.86:8080/inter/HTTP', '', '', '', '']
+2020-03-17 14:20:55 - INFO - ['', '', '添加头', 'addheader', 'token', 'null', '', '', '']
+2020-03-17 14:20:55 - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '']
+2020-03-17 14:20:55 - INFO - ['', '', '保存token', 'savejson', 'token', 'token', '', '', '']
+2020-03-17 14:20:55 - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '']
+2020-03-17 14:20:55 - INFO - ['', '', '注册', 'post', 'register', 'username=Tester55&pwd=123456&nickname=测试账号&describe=这个账号，是一个测试注册的账号', '', '', '']
+2020-03-17 14:20:55 - INFO - ['', '', '校验注册', 'assertequals', 'status', '200', '', '', '']
+2020-03-17 14:20:55 - INFO - Fail
+2020-03-17 14:20:55 - INFO - ['登录', '', '', ' ', '', 'SS', '', '', '']
+2020-03-17 14:20:55 - INFO - ['', '登录', '', ' ', '', '', '', '', '']
+2020-03-17 14:20:55 - INFO - ['', '', '登录', 'post', 'login', 'username=Tester55&password=123456', '', '', '']
+2020-03-17 14:20:55 - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '']
+2020-03-17 14:20:55 - INFO - Pass
+2020-03-17 14:20:55 - INFO - ['', '', '保存id', 'savejson', 'userid', 'id', '', '', '']
+2020-03-17 14:20:55 - INFO - ['获取用户信息', '', '', ' ', '', '', '', '', '']
+2020-03-17 14:20:55 - INFO - ['', '获取用户信息', '', ' ', '', '', '', '', '']
+2020-03-17 14:20:55 - INFO - ['', '', '获取用户信息', 'post', 'getUserInfo', 'id={id}', '', '', '']
+2020-03-17 14:20:55 - INFO - ['', '', '校验用户信息', 'assertequals', 'status', '200', '', '', '']
+2020-03-17 14:20:55 - INFO - Pass
+2020-03-17 14:20:55 - INFO - ['', '', '校验用户id', 'assertequals', 'id', '{id}', '', '', '']
+2020-03-17 14:20:55 - INFO - Pass
+2020-03-17 14:20:55 - INFO - ['', '', '校验用户昵称', 'assertequals', 'nickname', '测试账号', '', '', '']
+2020-03-17 14:20:55 - INFO - Pass
+2020-03-17 14:20:55 - INFO - ['', '', '校验用户描述', 'assertequals', 'describe', '这个账号，是一个测试注册的账号', '', '', '']
+2020-03-17 14:20:55 - INFO - Pass
+2020-03-17 14:20:55 - INFO - ['注销', '', '', ' ', '', '', '', '', '']
+2020-03-17 14:20:55 - INFO - ['', '注销', '', ' ', '', '', '', '', '']
+2020-03-17 14:20:55 - INFO - ['', '', '登出', 'post', 'logout', '', '', '', '']
+2020-03-17 14:20:55 - INFO - ['', '', '校验登出', 'assertequals', 'status', '200', '', '', '']
+2020-03-17 14:20:55 - INFO - Pass
+2020-03-17 14:20:55 - INFO - ['', '', '校验登录态', 'post', 'getUserInfo', 'id={id}', '', '', '']
+2020-03-17 14:20:55 - INFO - ['', '', '校验用户信息', 'assertequals', 'status', '405', '', '', '']
+2020-03-17 14:20:55 - INFO - Pass
+2020-03-17 15:09:46 - ERROR - 未打开可写入txt文件
+2020-03-17 15:10:03 - ERROR - 未打开可写入txt文件
+2020-03-17 15:10:16 - ERROR - 未打开可写入txt文件
+2020-03-17 15:10:28 - ERROR - 未打开可写入txt文件
+2020-03-17 15:10:46 - ERROR - 未打开可写入txt文件
+2020-03-17 15:13:35 - ERROR - 未打开可写入txt文件
+2020-03-17 15:13:43 - ERROR - 未打开可写入txt文件
+2020-03-17 15:17:50 - ERROR - 未打开可写入txt文件
+2020-03-17 15:19:35 - ERROR - 未打开可写入txt文件
+2020-03-17 15:21:44 - ERROR - 未打开可写入txt文件
+2020-03-17 15:24:06 - ERROR - 未打开可写入txt文件
+2020-03-17 15:25:07 - ERROR - 未打开可写入txt文件
+2020-03-17 15:25:22 - ERROR - 未打开可写入txt文件
+2020-03-17 15:27:52 - ERROR - 未打开可写入txt文件
+2020-03-17 15:41:19 - ERROR - 未打开可写入txt文件
+2020-03-17 15:43:45 - ERROR - 未打开可写入txt文件
+2020-03-17 15:44:27 - ERROR - 未打开可写入txt文件
+2020-03-17 16:18:01 - INFO - ['#mysql配置', 'mysqluser=root', 'mysqlpassword=xy123456', 'mysqlport=3306', 'mysqlhost=47.102.153.86', 'mysqldb=test_project', 'mysqlcharset=utf8', '#=邮件配置', '#mail=m18570394312_1@163.com', '#pwd=dongnao001', 'mail=993843278@qq.com', 'pwd=zecwqixwjjpgbfej', 'mailto=993843278@qq.com', "mailcopy='2105411301@qq.com'", 'mailtitle=自动化测试报告', 'mail_encoding=utf8', 'mailtxt=\'<html><style type="text/css">body{ background:#ffffff; margin:0 auto; padding:0; text-align:left; font-size:13px; font-family: "微软雅黑","宋体";}table{ font-size:13px; font-family: "微软雅黑","宋体";}.table_c{border:1px solid #ccc;border-collapse:collapse; }.table_c td{border:1px solid #ccc; border-collapse:collapse;}.table_b{border:1px solid #666;border-collapse:collapse; }.table_b td{ border-collapse:collapse; border:1px solid #ccc;}.table_b th{color:#fff; background:#666;}a:link{ color:#3366cc; font-weight:normal; }a:visited { color: #3366cc;}a:hover{ color:#000; }a:active { color:#3366cc; }td{ line-height:20px;}.case-group {border: 1px solid transparent;border-color: #ddd;line-height:5px;}.case-group a:link,a:hover{color:#0092fa;text-decoration:none;}.group-模拟器测试用例{margin: 10px;}.case-模拟器测试用例{height: 30px;}.case-case {border-top: 1px solid;border-color: #ddd;padding: 13px;word-wrap: break-word;}.statuclass{float:right;right:5%;position:relative;}.countclass{float:right;right:20%;position:relative;}.passclass{float:right;right:30%;position:relative;}.casename{position:relative;left:3%;}.righta{float:right;font-size:20px;}.case-file{border: 2px #8cbfff solid;border-radius: 5px;}</style><table width="650" ="0" cellspacing="0" align="center" cellpadding="0" style="border-radius: 15px;background-color: #f6f5f5;border: 1px #ffe4da solid;"><tbody><tr><td><table width="650" border="0" cellpadding="0" cellspacing="0" style="border-radius: 15px 15px 0 0;background-color: #ffffff;"><tbody><tr><td width="137"><img src="http://112.741.191.10/wp-content/uploads/2018/07/logo_middle.png" width="137" height="80"></td><td align="left" style="font-size: 13px;color: #999999;padding-top: 26px;right: 10px;position: relative;top: -10px;text-align:right;"><h style="font-size: 20px;font-family: cursive;line-height: 30px;color: #8cbfff;">Hi All ！ </h><br>此为来自阿里巴巴自动化小组测试邮件，请不要直接回复。</td></tr></tbody></table><br><table width="592" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="font-size: 14px; color: 333333; font-weight: bold; padding-bottom:15px;">测试报告：<font color="ff6600">自动化测试用例</font></td></tr><tr><td style="border: 2px #8cbfff solid;border-radius: 5px;"><table width="572" border="0" align="center" class="table_c" style="border-collapse:collapse;margin: 10px;"><tbody><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试内容</td><td colspan="3" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><h4 style="line-height: 1px;margin:0;">title</h4></td></tr><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试状态</td><td height="28" width="150" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><font style="font-weight: bold;font-size: 14px;color: #00d800;">status</font></td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">类型</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">runtype</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">通过率</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">passrate</td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">开始时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">starttime</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">总用例数</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">casecount</td><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">结束时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">endtime</td></tr></tbody></table></td></tr><tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 10px 0;border-bottom: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">如果您对本次邮件结果有任何疑问，请联系 <a href="http://wpa.qq.com/msgrd?v=3&uin=993843278&site=qq&menu=yes" target="_blank" color="#666666">Xingye：993843278</a></a> 反馈。</td></tr></tbody></table></td></tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 16px 0;border-top: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">感谢您的查阅。<font color="#666666">All Rights Reserved by 阿里巴巴 College. Designed and Developed by Mr. 星野.</font></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>\'']
+2020-03-17 16:20:21 - WARNING - 配置文件格式错误，请检查：993843278
+2020-03-17 17:27:57 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:27:57 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:27:57 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:27:57 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:27:57 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:27:57 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:28:26 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:28:26 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:28:26 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:28:26 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:28:26 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:28:26 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:30:31 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 40, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:30:31 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 40, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:30:31 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 40, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:30:31 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 40, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:30:31 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 40, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:30:31 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 40, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:31:07 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 17:31:07 - INFO - 数据更新成功
+2020-03-17 17:32:05 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 40, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:32:05 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 40, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:32:05 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 40, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:32:05 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 40, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:32:05 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 40, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:32:05 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 40, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:32:26 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:32:26 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:32:26 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:32:26 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:32:26 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:32:26 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:32:36 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:32:36 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:32:36 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:32:36 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:32:36 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:32:36 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:32:40 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:32:40 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:32:40 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:32:40 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:32:40 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:32:40 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:33:08 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:33:08 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:33:08 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:33:08 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:33:08 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:33:08 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:33:11 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:33:11 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:33:11 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:33:11 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:33:11 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:33:11 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:33:52 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:33:52 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:33:52 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:33:52 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:33:52 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:33:52 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 23, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:34:18 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 24, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:34:18 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 24, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:34:18 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 24, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:34:18 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 24, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:34:18 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 24, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:34:18 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 24, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:36:58 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 18, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:36:58 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 18, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:36:58 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 18, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:36:58 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 18, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:36:58 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 18, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:36:58 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 18, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:37:11 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 18, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:37:11 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 18, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:37:11 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 18, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:37:11 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 18, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:37:11 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 18, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:37:11 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 18, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:37:14 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 18, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:37:14 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 18, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:37:14 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 18, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:37:14 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 18, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:37:14 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 18, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:37:14 - ERROR - 'dict' object has no attribute 'config'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/mysql.py", line 18, in __init__
+    self.mysql_config[key] = config.config[key]
+AttributeError: 'dict' object has no attribute 'config'
+2020-03-17 17:58:36 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 17:58:58 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 17:59:20 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 17:59:37 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:00:00 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:00:12 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:00:22 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:00:36 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:01:43 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:02:03 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:02:12 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:02:32 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:02:52 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:04:44 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:05:16 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:05:56 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:06:28 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:06:44 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:06:51 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:07:15 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:07:34 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:07:57 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:08:30 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:09:03 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:09:27 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:11:22 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:17:21 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:17:21 - INFO - 数据更新成功
+2020-03-17 18:27:19 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:27:19 - INFO - 数据更新成功
+2020-03-17 18:28:46 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:28:46 - INFO - 数据更新成功
+2020-03-17 18:29:34 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:29:34 - INFO - 数据更新成功
+2020-03-17 18:29:56 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:29:56 - INFO - 数据更新成功
+2020-03-17 18:33:48 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:34:00 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:34:00 - INFO - 数据更新成功
+2020-03-17 18:35:21 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:35:40 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:35:40 - INFO - 数据更新成功
+2020-03-17 18:36:06 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:36:07 - INFO - 数据更新成功
+2020-03-17 18:36:19 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:36:19 - INFO - 数据更新成功
+2020-03-17 18:36:56 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:37:07 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:37:22 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:37:48 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:38:10 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:38:10 - INFO - 数据更新成功
+2020-03-17 18:48:27 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 18:48:27 - INFO - 数据更新成功
+2020-03-17 20:08:56 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 20:08:56 - INFO - 数据更新成功
+2020-03-17 20:09:38 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 20:09:38 - INFO - 数据更新成功
+2020-03-17 20:09:55 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 20:09:56 - INFO - 数据更新成功
+2020-03-17 20:10:55 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 20:10:55 - INFO - 数据更新成功
+2020-03-17 20:11:35 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 20:11:36 - INFO - 数据更新成功
+2020-03-17 20:12:26 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 20:12:26 - INFO - 数据更新成功
+2020-03-17 20:12:53 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 20:12:53 - INFO - 数据更新成功
+2020-03-17 20:15:00 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 20:15:00 - INFO - 数据更新成功
+2020-03-17 20:16:03 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 20:16:03 - INFO - 数据更新成功
+2020-03-17 20:16:34 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 20:16:34 - INFO - 数据更新成功
+2020-03-17 20:16:49 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 20:16:49 - INFO - 数据更新成功
+2020-03-17 20:17:53 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 20:17:53 - INFO - 数据更新成功
+2020-03-17 20:18:12 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 20:18:22 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 20:18:22 - INFO - 数据更新成功
+2020-03-17 20:18:27 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 20:18:28 - INFO - 数据更新成功
+2020-03-17 20:19:29 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 20:19:29 - INFO - 数据更新成功
+2020-03-17 21:01:20 - INFO - 正在连接恢复../conf/userinfo.sql数据库
+2020-03-17 21:01:21 - INFO - 数据更新成功
+2020-03-17 21:02:20 - INFO - 成功
+2020-03-17 21:02:20 - WARNING - wwww
+2020-03-17 21:02:20 - ERROR - ererererer
+2020-03-17 21:02:20 - ERROR - unsupported operand type(s) for +: 'int' and 'str'
+Traceback (most recent call last):
+  File "E:/Software/pychromework/MyTestFrameNEW/common/logger.py", line 63, in <module>
+    print(1 + '2')
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+2020-03-17 22:10:03 - INFO - {'from': '993843278@qq.com', 'username': '993843278@qq.com', 'hostname': 'smtp.qq.com', 'password': 'pczuqrfytbunbeji', 'to': ['993843278@qq.com'], 'cc': ["'2105411301@qq.com'"], 'mail_subject': '自动化测试报告', 'mail_encoding': 'utf8', 'filepaths': [], 'filenames': ['Xytesting.html']}
+2020-03-17 22:10:03 - INFO - '<html><style type="text/css">body{ background:#ffffff; margin:0 auto; padding:0; text-align:left; font-size:13px; font-family: "微软雅黑","宋体";}table{ font-size:13px; font-family: "微软雅黑","宋体";}.table_c{border:1px solid #ccc;border-collapse:collapse; }.table_c td{border:1px solid #ccc; border-collapse:collapse;}.table_b{border:1px solid #666;border-collapse:collapse; }.table_b td{ border-collapse:collapse; border:1px solid #ccc;}.table_b th{color:#fff; background:#666;}a:link{ color:#3366cc; font-weight:normal; }a:visited { color: #3366cc;}a:hover{ color:#000; }a:active { color:#3366cc; }td{ line-height:20px;}.case-group {border: 1px solid transparent;border-color: #ddd;line-height:5px;}.case-group a:link,a:hover{color:#0092fa;text-decoration:none;}.group-模拟器测试用例{margin: 10px;}.case-模拟器测试用例{height: 30px;}.case-case {border-top: 1px solid;border-color: #ddd;padding: 13px;word-wrap: break-word;}.statuclass{float:right;right:5%;position:relative;}.countclass{float:right;right:20%;position:relative;}.passclass{float:right;right:30%;position:relative;}.casename{position:relative;left:3%;}.righta{float:right;font-size:20px;}.case-file{border: 2px #8cbfff solid;border-radius: 5px;}</style><table width="650" ="0" cellspacing="0" align="center" cellpadding="0" style="border-radius: 15px;background-color: #f6f5f5;border: 1px #ffe4da solid;"><tbody><tr><td><table width="650" border="0" cellpadding="0" cellspacing="0" style="border-radius: 15px 15px 0 0;background-color: #ffffff;"><tbody><tr><td width="137"><img src="http://112.741.191.10/wp-content/uploads/2018/07/logo_middle.png" width="137" height="80"></td><td align="left" style="font-size: 13px;color: #999999;padding-top: 26px;right: 10px;position: relative;top: -10px;text-align:right;"><h style="font-size: 20px;font-family: cursive;line-height: 30px;color: #8cbfff;">Hi All ！ </h><br>此为来自阿里巴巴自动化小组测试邮件，请不要直接回复。</td></tr></tbody></table><br><table width="592" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="font-size: 14px; color: 333333; font-weight: bold; padding-bottom:15px;">测试报告：<font color="ff6600">自动化测试用例</font></td></tr><tr><td style="border: 2px #8cbfff solid;border-radius: 5px;"><table width="572" border="0" align="center" class="table_c" style="border-collapse:collapse;margin: 10px;"><tbody><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试内容</td><td colspan="3" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><h4 style="line-height: 1px;margin:0;">title</h4></td></tr><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试状态</td><td height="28" width="150" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><font style="font-weight: bold;font-size: 14px;color: #00d800;">status</font></td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">类型</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">runtype</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">通过率</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">passrate</td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">开始时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">starttime</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">总用例数</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">casecount</td><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">结束时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">endtime</td></tr></tbody></table></td></tr><tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 10px 0;border-bottom: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">如果您对本次邮件结果有任何疑问，请联系 <a href="http://wpa.qq.com/msgrd?v=3&uin=993843278&site=qq&menu=yes" target="_blank" color="#666666">Xingye：993843278</a></a> 反馈。</td></tr></tbody></table></td></tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 16px 0;border-top: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">感谢您的查阅。<font color="#666666">All Rights Reserved by 阿里巴巴 College. Designed and Developed by Mr. 星野.</font></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>'
+2020-03-17 22:10:04 - INFO - 邮件发送成功
+2020-03-17 22:12:57 - INFO - {'from': '993843278@qq.com', 'username': '993843278@qq.com', 'hostname': 'smtp.qq.com', 'password': 'pczuqrfytbunbeji', 'to': ['993843278@qq.com'], 'cc': ["'2105411301@qq.com'"], 'mail_subject': '自动化测试报告', 'mail_encoding': 'utf8', 'filepaths': ['E:\\Software\\module1.html'], 'filenames': ['Xytesting.html']}
+2020-03-17 22:12:57 - INFO - '<html><style type="text/css">body{ background:#ffffff; margin:0 auto; padding:0; text-align:left; font-size:13px; font-family: "微软雅黑","宋体";}table{ font-size:13px; font-family: "微软雅黑","宋体";}.table_c{border:1px solid #ccc;border-collapse:collapse; }.table_c td{border:1px solid #ccc; border-collapse:collapse;}.table_b{border:1px solid #666;border-collapse:collapse; }.table_b td{ border-collapse:collapse; border:1px solid #ccc;}.table_b th{color:#fff; background:#666;}a:link{ color:#3366cc; font-weight:normal; }a:visited { color: #3366cc;}a:hover{ color:#000; }a:active { color:#3366cc; }td{ line-height:20px;}.case-group {border: 1px solid transparent;border-color: #ddd;line-height:5px;}.case-group a:link,a:hover{color:#0092fa;text-decoration:none;}.group-模拟器测试用例{margin: 10px;}.case-模拟器测试用例{height: 30px;}.case-case {border-top: 1px solid;border-color: #ddd;padding: 13px;word-wrap: break-word;}.statuclass{float:right;right:5%;position:relative;}.countclass{float:right;right:20%;position:relative;}.passclass{float:right;right:30%;position:relative;}.casename{position:relative;left:3%;}.righta{float:right;font-size:20px;}.case-file{border: 2px #8cbfff solid;border-radius: 5px;}</style><table width="650" ="0" cellspacing="0" align="center" cellpadding="0" style="border-radius: 15px;background-color: #f6f5f5;border: 1px #ffe4da solid;"><tbody><tr><td><table width="650" border="0" cellpadding="0" cellspacing="0" style="border-radius: 15px 15px 0 0;background-color: #ffffff;"><tbody><tr><td width="137"><img src="http://112.741.191.10/wp-content/uploads/2018/07/logo_middle.png" width="137" height="80"></td><td align="left" style="font-size: 13px;color: #999999;padding-top: 26px;right: 10px;position: relative;top: -10px;text-align:right;"><h style="font-size: 20px;font-family: cursive;line-height: 30px;color: #8cbfff;">Hi All ！ </h><br>此为来自阿里巴巴自动化小组测试邮件，请不要直接回复。</td></tr></tbody></table><br><table width="592" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="font-size: 14px; color: 333333; font-weight: bold; padding-bottom:15px;">测试报告：<font color="ff6600">自动化测试用例</font></td></tr><tr><td style="border: 2px #8cbfff solid;border-radius: 5px;"><table width="572" border="0" align="center" class="table_c" style="border-collapse:collapse;margin: 10px;"><tbody><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试内容</td><td colspan="3" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><h4 style="line-height: 1px;margin:0;">title</h4></td></tr><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试状态</td><td height="28" width="150" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><font style="font-weight: bold;font-size: 14px;color: #00d800;">status</font></td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">类型</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">runtype</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">通过率</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">passrate</td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">开始时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">starttime</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">总用例数</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">casecount</td><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">结束时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">endtime</td></tr></tbody></table></td></tr><tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 10px 0;border-bottom: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">如果您对本次邮件结果有任何疑问，请联系 <a href="http://wpa.qq.com/msgrd?v=3&uin=993843278&site=qq&menu=yes" target="_blank" color="#666666">Xingye：993843278</a></a> 反馈。</td></tr></tbody></table></td></tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 16px 0;border-top: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">感谢您的查阅。<font color="#666666">All Rights Reserved by 阿里巴巴 College. Designed and Developed by Mr. 星野.</font></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>'
+2020-03-17 22:12:58 - INFO - 邮件发送成功
+2020-03-17 22:13:33 - INFO - {'from': '993843278@qq.com', 'username': '993843278@qq.com', 'hostname': 'smtp.qq.com', 'password': 'pczuqrfytbunbeji', 'to': ['993843278@qq.com'], 'cc': ["'2105411301@qq.com'"], 'mail_subject': '自动化测试报告', 'mail_encoding': 'utf8', 'filepaths': [], 'filenames': ['Xytesting.html']}
+2020-03-17 22:13:33 - INFO - '<html><style type="text/css">body{ background:#ffffff; margin:0 auto; padding:0; text-align:left; font-size:13px; font-family: "微软雅黑","宋体";}table{ font-size:13px; font-family: "微软雅黑","宋体";}.table_c{border:1px solid #ccc;border-collapse:collapse; }.table_c td{border:1px solid #ccc; border-collapse:collapse;}.table_b{border:1px solid #666;border-collapse:collapse; }.table_b td{ border-collapse:collapse; border:1px solid #ccc;}.table_b th{color:#fff; background:#666;}a:link{ color:#3366cc; font-weight:normal; }a:visited { color: #3366cc;}a:hover{ color:#000; }a:active { color:#3366cc; }td{ line-height:20px;}.case-group {border: 1px solid transparent;border-color: #ddd;line-height:5px;}.case-group a:link,a:hover{color:#0092fa;text-decoration:none;}.group-模拟器测试用例{margin: 10px;}.case-模拟器测试用例{height: 30px;}.case-case {border-top: 1px solid;border-color: #ddd;padding: 13px;word-wrap: break-word;}.statuclass{float:right;right:5%;position:relative;}.countclass{float:right;right:20%;position:relative;}.passclass{float:right;right:30%;position:relative;}.casename{position:relative;left:3%;}.righta{float:right;font-size:20px;}.case-file{border: 2px #8cbfff solid;border-radius: 5px;}</style><table width="650" ="0" cellspacing="0" align="center" cellpadding="0" style="border-radius: 15px;background-color: #f6f5f5;border: 1px #ffe4da solid;"><tbody><tr><td><table width="650" border="0" cellpadding="0" cellspacing="0" style="border-radius: 15px 15px 0 0;background-color: #ffffff;"><tbody><tr><td width="137"><img src="http://112.741.191.10/wp-content/uploads/2018/07/logo_middle.png" width="137" height="80"></td><td align="left" style="font-size: 13px;color: #999999;padding-top: 26px;right: 10px;position: relative;top: -10px;text-align:right;"><h style="font-size: 20px;font-family: cursive;line-height: 30px;color: #8cbfff;">Hi All ！ </h><br>此为来自阿里巴巴自动化小组测试邮件，请不要直接回复。</td></tr></tbody></table><br><table width="592" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="font-size: 14px; color: 333333; font-weight: bold; padding-bottom:15px;">测试报告：<font color="ff6600">自动化测试用例</font></td></tr><tr><td style="border: 2px #8cbfff solid;border-radius: 5px;"><table width="572" border="0" align="center" class="table_c" style="border-collapse:collapse;margin: 10px;"><tbody><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试内容</td><td colspan="3" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><h4 style="line-height: 1px;margin:0;">title</h4></td></tr><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试状态</td><td height="28" width="150" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><font style="font-weight: bold;font-size: 14px;color: #00d800;">status</font></td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">类型</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">runtype</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">通过率</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">passrate</td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">开始时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">starttime</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">总用例数</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">casecount</td><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">结束时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">endtime</td></tr></tbody></table></td></tr><tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 10px 0;border-bottom: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">如果您对本次邮件结果有任何疑问，请联系 <a href="http://wpa.qq.com/msgrd?v=3&uin=993843278&site=qq&menu=yes" target="_blank" color="#666666">Xingye：993843278</a></a> 反馈。</td></tr></tbody></table></td></tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 16px 0;border-top: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">感谢您的查阅。<font color="#666666">All Rights Reserved by 阿里巴巴 College. Designed and Developed by Mr. 星野.</font></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>'
+2020-03-17 22:13:33 - INFO - 邮件发送成功
+2020-03-17 22:16:01 - INFO - {'from': '993843278@qq.com', 'username': '993843278@qq.com', 'hostname': 'smtp.qq.com', 'password': 'pczuqrfytbunbeji', 'to': ['993843278@qq.com'], 'cc': ["'2105411301@qq.com'"], 'mail_subject': '自动化测试报告', 'mail_encoding': 'utf8', 'filepaths': [], 'filenames': ['Xytesting.html']}
+2020-03-17 22:16:01 - INFO - '<html><style type="text/css">body{ background:#ffffff; margin:0 auto; padding:0; text-align:left; font-size:13px; font-family: "微软雅黑","宋体";}table{ font-size:13px; font-family: "微软雅黑","宋体";}.table_c{border:1px solid #ccc;border-collapse:collapse; }.table_c td{border:1px solid #ccc; border-collapse:collapse;}.table_b{border:1px solid #666;border-collapse:collapse; }.table_b td{ border-collapse:collapse; border:1px solid #ccc;}.table_b th{color:#fff; background:#666;}a:link{ color:#3366cc; font-weight:normal; }a:visited { color: #3366cc;}a:hover{ color:#000; }a:active { color:#3366cc; }td{ line-height:20px;}.case-group {border: 1px solid transparent;border-color: #ddd;line-height:5px;}.case-group a:link,a:hover{color:#0092fa;text-decoration:none;}.group-模拟器测试用例{margin: 10px;}.case-模拟器测试用例{height: 30px;}.case-case {border-top: 1px solid;border-color: #ddd;padding: 13px;word-wrap: break-word;}.statuclass{float:right;right:5%;position:relative;}.countclass{float:right;right:20%;position:relative;}.passclass{float:right;right:30%;position:relative;}.casename{position:relative;left:3%;}.righta{float:right;font-size:20px;}.case-file{border: 2px #8cbfff solid;border-radius: 5px;}</style><table width="650" ="0" cellspacing="0" align="center" cellpadding="0" style="border-radius: 15px;background-color: #f6f5f5;border: 1px #ffe4da solid;"><tbody><tr><td><table width="650" border="0" cellpadding="0" cellspacing="0" style="border-radius: 15px 15px 0 0;background-color: #ffffff;"><tbody><tr><td width="137"><img src="http://112.741.191.10/wp-content/uploads/2018/07/logo_middle.png" width="137" height="80"></td><td align="left" style="font-size: 13px;color: #999999;padding-top: 26px;right: 10px;position: relative;top: -10px;text-align:right;"><h style="font-size: 20px;font-family: cursive;line-height: 30px;color: #8cbfff;">Hi All ！ </h><br>此为来自阿里巴巴自动化小组测试邮件，请不要直接回复。</td></tr></tbody></table><br><table width="592" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="font-size: 14px; color: 333333; font-weight: bold; padding-bottom:15px;">测试报告：<font color="ff6600">自动化测试用例</font></td></tr><tr><td style="border: 2px #8cbfff solid;border-radius: 5px;"><table width="572" border="0" align="center" class="table_c" style="border-collapse:collapse;margin: 10px;"><tbody><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试内容</td><td colspan="3" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><h4 style="line-height: 1px;margin:0;">title</h4></td></tr><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试状态</td><td height="28" width="150" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><font style="font-weight: bold;font-size: 14px;color: #00d800;">status</font></td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">类型</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">runtype</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">通过率</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">passrate</td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">开始时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">starttime</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">总用例数</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">casecount</td><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">结束时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">endtime</td></tr></tbody></table></td></tr><tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 10px 0;border-bottom: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">如果您对本次邮件结果有任何疑问，请联系 <a href="http://wpa.qq.com/msgrd?v=3&uin=993843278&site=qq&menu=yes" target="_blank" color="#666666">Xingye：993843278</a></a> 反馈。</td></tr></tbody></table></td></tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 16px 0;border-top: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">感谢您的查阅。<font color="#666666">All Rights Reserved by 阿里巴巴 College. Designed and Developed by Mr. 星野.</font></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>'
+2020-03-17 22:16:01 - INFO - 邮件发送成功
