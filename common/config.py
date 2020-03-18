@@ -38,5 +38,5 @@ def get_config(path):
 
 
 # 调试
-get_config('../conf/conf.properties')
-print(config)
+# get_config('../conf/conf.properties')
+# print(config)

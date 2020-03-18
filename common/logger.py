@@ -1,11 +1,11 @@
 # -*- coding: UTF-8 -*-
 
 import logging
-path ='..'
+path ='.'
 #create logger,输出到日志文件
 logger = None
 
-formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s',datefmt = '%Y-%m-%d %H:%M:%S')
+formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s',datefmt = '%Y-%m-%d %H:%M:%S:')
 #设置输出的格式
 c = logging.FileHandler(path + "/lib/logs/all.log",mode='a',encoding='utf8')
 logger = logging.getLogger()

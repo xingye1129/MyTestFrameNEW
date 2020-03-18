@@ -93,7 +93,7 @@ class Write:
             print("erro:源文件" + startfile + "not exist!")
             return
         if os.path.isfile(endfile):
-            print('erro:目标文件' + endfile + "file is exist!")
+            print('warring:目标文件' + endfile + "file is exist!")
 
         # 记录要保存的文件
         self.df = endfile

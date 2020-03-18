@@ -3,13 +3,18 @@
 from common.excel import *
 from Interface.WithInter import HTTP
 from common import logger
+from common.excelresult import Res
+from common import config
+from common.Mail import Email
 import inspect
+import datetime
 
 """
     这是整个自动化框架的主代码运行入口
     powered by will
     at:2020/03/15
 """
+
 
 # print('暂未实现自动化框架')
 
@@ -48,7 +53,8 @@ sheetname = read.get_sheets()
 writer = Write()
 writer.cope_open('./lib/cases/HTTP接口用例.xls', './lib/results/result-HTTP接口用例.xls')
 http = HTTP(writer)
-
+writer.set_sheets(sheetname[0])
+writer.write(1, 3, datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
 for sheet in sheetname:
     read.set_sheets(sheet)
     # 保持读写在一个sheet页
@@ -58,4 +64,29 @@ for sheet in sheetname:
         line = read.Readline()
         logger.info(line)
         runcase(line, http)
+writer.set_sheets(sheetname[0])
+writer.write(1, 4, datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
 writer.save_close()
+
+# 解析结果
+res = Res()
+result = res.get_res('./lib/results/result-HTTP接口用例.xls')
+logger.info(result)
+# 获取html文本
+config.get_config('./conf/conf.properties')
+# logger.info(config.config)
+html = str(config.config['mailtxt'])
+
+# #替换html模板中的数据
+html = html.replace('status', result['status'])
+if result['status'] == 'FAIL':
+    html = html.replace('#00d800', 'red')
+else:
+    pass
+html = html.replace('runtype', result['runtype'])
+html = html.replace('passrate', result['passrate'])
+html = html.replace('casecount', result['casecount'])
+html = html.replace('starttime', result['starttime'])
+html = html.replace('endtime', result['endtime'])
+email = Email()
+email.send(html)
