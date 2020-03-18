@@ -1,6 +1,7 @@
 # -*- coding: UTF-8 -*-
 import requests, json, traceback
 from common import logger
+import jsonpath
 
 class HTTP:
     """
@@ -10,7 +11,7 @@ class HTTP:
     """
 
     def __init__(self,writer):
-        # requests.packages.urllib3.disable_warnings()
+        requests.packages.urllib3.disable_warnings()
         self.session = requests.session()
         # 定义实例变量，用来保存返回utf8编码的返回值
         self.result = ''
@@ -39,6 +40,28 @@ class HTTP:
             logger.error('url格式错误')
             self.writer.write(self.writer.row, 7, 'FAIL')
             self.writer.write(self.writer.row, 8, 'url格式错误')
+
+    def get(self, url,params =None, encode='utf8'):
+
+        if not (url.startswith('http') or url.startswith('https')):
+            url = self.url + '/' + url + '?' + params
+        else:
+            url = url + '?' + params
+
+        res = self.session.get(url, verify=False)
+        try:
+            self.result = res.content.decode(encode)
+        except Exception as e:
+            self.result = res.text
+        try:
+            jsons = self.result
+            jsons = jsons[jsons.find('{'):jsons.rfind('}') + 1]
+            self.jsonres = json.loads(jsons)
+            self.writer.write(self.writer.row, 7, 'PASS')
+            self.writer.write(self.writer.row, 8, str(self.jsonres))
+        except Exception as e:
+            self.writer.write(self.writer.row, 7, 'FAIL')
+            self.writer.write(self.writer.row, 8, str(self.result))
 
     def post(self, url, d=None, j=None, encode='utf8'):
         """
@@ -112,7 +135,7 @@ class HTTP:
         value = self.__get_param(value)
         res = self.result
         try:
-            res = str(self.jsonres[key])
+            res = str(jsonpath.jsonpath(self.jsonres,key)[0])
         except Exception as e:
             pass
         if res == str(value):
@@ -153,6 +176,9 @@ class HTTP:
         return s
 
     def __get_data(self, s):
+
+        #默认为标准的字符
+        flag = False
         # 传入的参数s为'username=test2&password=test2'格式,先用&分割，结果为['username=test2', 'password=test2']
 
         # 用来保存数据为字典模式：比如：'username=test2&password=test2' 转化为字典模式
@@ -166,7 +192,10 @@ class HTTP:
             try:
                 dates[ppp[0]] = ppp[1]
             except Exception as e:
+                flag = True
                 logger.error('erro:参数传值不规范')
                 logger.exception(e)
-
-        return dates
+        if flag:
+            return s
+        else:
+            return dates

@@ -26,7 +26,10 @@ class Email:
         # 收件人
         self.mail_info['to'] = str(config.config['mailto']).split(',')
         # 抄送人
-        self.mail_info['cc'] = str(config.config['mailcopy']).split(',')
+        try:
+            self.mail_info['cc'] = str(config.config['mailcopy']).split(',')
+        except Exception as e:
+            logger.warring('没有抄送的好友')
         # 邮件标题
         self.mail_info['mail_subject'] = config.config['mailtitle']
         self.mail_info['mail_encoding'] = config.config['mail_encoding']

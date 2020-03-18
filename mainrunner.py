@@ -8,6 +8,7 @@ from common import config
 from common.Mail import Email
 import inspect
 import datetime
+from common.mysql import Mysql
 
 """
     这是整个自动化框架的主代码运行入口
@@ -46,12 +47,21 @@ def runcase(line, http):
         func(line[4], line[5], line[6])
 
 
+
+#还原数据库
+
+config.get_config('./conf/conf.properties')
+mysql = Mysql()
+mysql.init_mysql('./conf/userinfo.sql')
+
 read = Read()
-read.OpenExcel('./lib/cases/HTTP接口用例.xls')
+
+casename = 'HTTP接口用例'
+read.OpenExcel('./lib/cases/'+ casename +'.xls')
 sheetname = read.get_sheets()
 
 writer = Write()
-writer.cope_open('./lib/cases/HTTP接口用例.xls', './lib/results/result-HTTP接口用例.xls')
+writer.cope_open('./lib/cases/'+ casename +'.xls', './lib/results/result-'+ casename +'.xls')
 http = HTTP(writer)
 writer.set_sheets(sheetname[0])
 writer.write(1, 3, datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
@@ -70,10 +80,10 @@ writer.save_close()
 
 # 解析结果
 res = Res()
-result = res.get_res('./lib/results/result-HTTP接口用例.xls')
+result = res.get_res('./lib/results/result-'+ casename +'.xls')
 logger.info(result)
 # 获取html文本
-config.get_config('./conf/conf.properties')
+
 # logger.info(config.config)
 html = str(config.config['mailtxt'])
 
@@ -83,6 +93,8 @@ if result['status'] == 'FAIL':
     html = html.replace('#00d800', 'red')
 else:
     pass
+print(result)
+html = html.replace('title', result['title'])
 html = html.replace('runtype', result['runtype'])
 html = html.replace('passrate', result['passrate'])
 html = html.replace('casecount', result['casecount'])

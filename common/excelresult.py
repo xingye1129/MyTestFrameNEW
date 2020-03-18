@@ -74,10 +74,10 @@ class Res:
             status = "FAIL"
         try:
             p = int(totalpass * 10000/totalcount)
-            passrate = str(p/100) + '%'
-            logger.info(passrate)
+            passrate = str(p/100) + '0%'
+            # logger.info(passrate)
         except Exception as e:
-            passrate = str(0.0) + '%'
+            passrate = str(0.00) + '%'
             logger.exception(e)
         # 用例总数
         self.sumarry['casecount'] =str(totalcount)
