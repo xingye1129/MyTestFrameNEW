@@ -2,6 +2,7 @@
 
 from common.excel import *
 from Interface.WithInter import HTTP
+from WEB.WithWeb import Webinter
 from common import logger
 from common.excelresult import Res
 from common import config
@@ -34,6 +35,7 @@ def runcase(line, http):
     args.remove('self')
 
     if len(args) == 0:
+        func()
         return
     if len(args) == 1:
         func(line[4])
@@ -56,15 +58,28 @@ mysql.init_mysql('./conf/userinfo.sql')
 
 read = Read()
 
-casename = 'HTTP接口用例'
+casename = 'Web'
 read.OpenExcel('./lib/cases/'+ casename +'.xls')
 sheetname = read.get_sheets()
 
 writer = Write()
 writer.cope_open('./lib/cases/'+ casename +'.xls', './lib/results/result-'+ casename +'.xls')
-http = HTTP(writer)
+
+
+
 writer.set_sheets(sheetname[0])
 writer.write(1, 3, datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
+
+read.Readline()
+http = None
+casetype = read.Readline()[1]
+if casetype == 'HTTP':
+    http = HTTP(writer)
+if casetype == 'WEB':
+    http = Webinter(writer)
+
+
+
 for sheet in sheetname:
     read.set_sheets(sheet)
     # 保持读写在一个sheet页

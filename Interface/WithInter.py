@@ -5,7 +5,7 @@ import jsonpath
 
 class HTTP:
     """
-        这是整个接口测试库
+        这是整个接口接口库
         powered by xingye
         at:2020/03/15
     """
@@ -71,6 +71,7 @@ class HTTP:
         :param j:标准的json传参
         :param encode:
         :return:
+
         """
         if not (url.startswith('http') or url.startswith('https')):
             url = self.url + '//' + url
@@ -147,7 +148,7 @@ class HTTP:
             self.writer.write(self.writer.row, 7, 'FAIL')
             self.writer.write(self.writer.row, 8, '实际结果： ' + res + "  预期结果：" + value)
 
-    def savejson(self, key, t):
+    def savejson(self, jpath, t):
         """
 
         :param key: 需要保存的参数的键
@@ -156,11 +157,11 @@ class HTTP:
         """
         # 将需要保存的参数的，保存为参数t的值
         try:
-            self.params[t] = self.jsonres[key]
+            self.params[t] = str(jsonpath.jsonpath(self.jsonres,jpath)[0])
             self.writer.write(self.writer.row, 7, 'PASS')
             self.writer.write(self.writer.row, 8, str(self.params[t]))
         except Exception as e:
-            logger.error('没有' + key + '这个值')
+            logger.error('没有' + jpath + '这个值')
             self.writer.write(self.writer.row, 7, 'FAIL')
             self.writer.write(self.writer.row, 8, str(self.jsonres))
             logger.exception(e)
@@ -196,6 +197,6 @@ class HTTP:
                 logger.error('erro:参数传值不规范')
                 logger.exception(e)
         if flag:
-            return s
+            return s.encode('utf-8')
         else:
             return dates
