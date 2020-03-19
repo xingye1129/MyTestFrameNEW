@@ -3,6 +3,7 @@
 from common.excel import *
 from Interface.WithInter import HTTP
 from WEB.WithWeb import Webinter
+from APP.WithApp import Applib
 from common import logger
 from common.excelresult import Res
 from common import config
@@ -58,7 +59,7 @@ mysql.init_mysql('./conf/userinfo.sql')
 
 read = Read()
 
-casename = 'Web'
+casename = 'APP用例'
 read.OpenExcel('./lib/cases/'+ casename +'.xls')
 sheetname = read.get_sheets()
 
@@ -77,7 +78,8 @@ if casetype == 'HTTP':
     http = HTTP(writer)
 if casetype == 'WEB':
     http = Webinter(writer)
-
+if casetype == 'APP':
+    http = Applib(writer)
 
 
 for sheet in sheetname:
