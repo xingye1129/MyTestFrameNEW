@@ -1,38 +1,38 @@
 # -*- coding: UTF-8 -*-
 
-from Interface.WithInter import HTTP
-import inspect
-
-
-
-from common.test02 import HTTP
-http = HTTP()
-#登录首页
-http.post('http://47.102.153.86:8080/inter/HTTP//auth')
-print(http.result)
-http.assertequals('status','200')
-
-#保存token
-http.savejson('token','t')
-#添加信息头
-http.addheader('token','{t}')
-
-#登录
-http.post('http://47.102.153.86:8080/inter/HTTP//login',d='username=test2&password=test2')
-print(http.result)
-http.assertequals('status','200')
-
-#保存userid
-http.savejson('userid','id')
-#查询信息
-http.post('http://47.102.153.86:8080/inter/HTTP//getUserInfo',d='id={id}')
-print(http.result)
-http.assertequals('status','200')
-
-#注销
-http.post('http://47.102.153.86:8080/inter/HTTP//logout')
-print(http.result)
-http.assertequals('status','200')
+# from Interface.WithInter import HTTP
+# import inspect
+#
+#
+#
+# from common.test02 import HTTP
+# http = HTTP()
+# #登录首页
+# http.post('http://47.102.153.86:8080/inter/HTTP//auth')
+# print(http.result)
+# http.assertequals('status','200')
+#
+# #保存token
+# http.savejson('token','t')
+# #添加信息头
+# http.addheader('token','{t}')
+#
+# #登录
+# http.post('http://47.102.153.86:8080/inter/HTTP//login',d='username=test2&password=test2')
+# print(http.result)
+# http.assertequals('status','200')
+#
+# #保存userid
+# http.savejson('userid','id')
+# #查询信息
+# http.post('http://47.102.153.86:8080/inter/HTTP//getUserInfo',d='id={id}')
+# print(http.result)
+# http.assertequals('status','200')
+#
+# #注销
+# http.post('http://47.102.153.86:8080/inter/HTTP//logout')
+# print(http.result)
+# http.assertequals('status','200')
 
 # http = HTTP()
 #
@@ -58,13 +58,13 @@ import os
 # if not os.path.isfile('../lib/cases/HTTP接口用例.xls'):
 #     print('www')
 
-# s ='username=test2&password=test2'
-# s =s.split('&')
-# print(s)
-# for ss in s:
-#     print(ss)
-#     sss =ss.split('=')
-#     print(sss)
+s ='username=test2&password=test2'
+s =s.split('&')
+print(s)
+for ss in s:
+    print(ss)
+    sss =ss.split('=')
+    print(sss)
 #
 # res = os.popen("ipconfig").read()
 # print(res)
@@ -108,12 +108,17 @@ import os
 # a =','.join(mailto)
 # print(a)
 
-# import jsonpath
-# a = {'status': '0', 't': '1584509676138', 'set_cache_time': '', 'data': [{'location': '澳大利亚', 'titlecont': 'IP地址查询', 'origip': '1.1.1.1', 'origipquery': '1.1.1.1', 'showlamp': '1', 'showLikeShare': 1, 'shareImage': 1, 'ExtendedLocation': '', 'OriginQuery': '1.1.1.1', 'tplt': 'ip', 'resourceid': '6006', 'fetchkey': '1.1.1.1', 'appinfo': '', 'role_id': 0, 'disp_type': 0}]}
-# res1 = jsonpath.jsonpath(a,'data')
-# res2 = jsonpath.jsonpath(a,'data')[0]
-# res3 = jsonpath.jsonpath(a,'$.data.[0].location')[0]
+# import jsonpath,json
+# a = {'status': 405, 'msg': '非法请求'}
+#
+#
+# res1 = jsonpath.jsonpath(a,'status')
+# res2 = jsonpath.jsonpath(a,'status')[0]
+# res3 = jsonpath.jsonpath(a,'$.[status]')[0]
 # print(res1)
 # print(res2)
 # print(res3)
-
+import os
+res = os.popen('netstat -aon | findstr 4333').read()
+print(res)
+print(type(res))

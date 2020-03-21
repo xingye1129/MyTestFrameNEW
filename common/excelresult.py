@@ -74,7 +74,7 @@ class Res:
             status = "FAIL"
         try:
             p = int(totalpass * 10000/totalcount)
-            passrate = str(p/100) + '0%'
+            passrate = str(p/100.00) + '%'
             # logger.info(passrate)
         except Exception as e:
             passrate = str(0.00) + '%'

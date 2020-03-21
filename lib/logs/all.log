@@ -14288,3 +14288,1195 @@ AttributeError: 'NoneType' object has no attribute 'close'
 2020-03-20 00:26:08: - INFO - {'from': '993843278@qq.com', 'username': '993843278@qq.com', 'hostname': 'smtp.qq.com', 'password': 'pczuqrfytbunbeji', 'to': ['506135307@qq.com'], 'cc': ["'2819313776@qq.com'"], 'mail_subject': '自动化测试报告', 'mail_encoding': 'utf8', 'filepaths': [], 'filenames': []}
 2020-03-20 00:26:08: - INFO - '<html><style type="text/css">body{ background:#ffffff; margin:0 auto; padding:0; text-align:left; font-size:13px; font-family: "微软雅黑","宋体";}table{ font-size:13px; font-family: "微软雅黑","宋体";}.table_c{border:1px solid #ccc;border-collapse:collapse; }.table_c td{border:1px solid #ccc; border-collapse:collapse;}.table_b{border:1px solid #666;border-collapse:collapse; }.table_b td{ border-collapse:collapse; border:1px solid #ccc;}.table_b th{color:#fff; background:#666;}a:link{ color:#3366cc; font-weight:normal; }a:visited { color: #3366cc;}a:hover{ color:#000; }a:active { color:#3366cc; }td{ line-height:20px;}.case-group {border: 1px solid transparent;border-color: #ddd;line-height:5px;}.case-group a:link,a:hover{color:#0092fa;text-decoration:none;}.group-模拟器测试用例{margin: 10px;}.case-模拟器测试用例{height: 30px;}.case-case {border-top: 1px solid;border-color: #ddd;padding: 13px;word-wrap: break-word;}.statuclass{float:right;right:5%;position:relative;}.countclass{float:right;right:20%;position:relative;}.passclass{float:right;right:30%;position:relative;}.casename{position:relative;left:3%;}.righta{float:right;font-size:20px;}.case-file{border: 2px #8cbfff solid;border-radius: 5px;}</style><table width="650" ="0" cellspacing="0" align="center" cellpadding="0" style="border-radius: 15px;background-color: #f6f5f5;border: 1px #ffe4da solid;"><tbody><tr><td><table width="650" border="0" cellpadding="0" cellspacing="0" style="border-radius: 15px 15px 0 0;background-color: #ffffff;"><tbody><tr><td width="137"><img src="http://112.741.191.10/wp-content/uploads/2018/07/logo_middle.png" width="137" height="80"></td><td align="left" style="font-size: 13px;color: #999999;padding-top: 26px;right: 10px;position: relative;top: -10px;text-align:right;"><h style="font-size: 20px;font-family: cursive;line-height: 30px;color: #8cbfff;">Hi All ！ </h><br>此为来自阿里巴巴自动化小组测试邮件，请不要直接回复。</td></tr></tbody></table><br><table width="592" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="font-size: 14px; color: 333333; font-weight: bold; padding-bottom:15px;">测试报告：<font color="ff6600">自动化测试用例</font></td></tr><tr><td style="border: 2px #8cbfff solid;border-radius: 5px;"><table width="572" border="0" align="center" class="table_c" style="border-collapse:collapse;margin: 10px;"><tbody><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试内容</td><td colspan="3" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><h4 style="line-height: 1px;margin:0;">手q自动化测试用例</h4></td></tr><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试状态</td><td height="28" width="150" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><font style="font-weight: bold;font-size: 14px;color: #00d800;">PASS</font></td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">类型</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">APP</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">通过率</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">100.00%</td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">开始时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">2020-03-20 00:24:54</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">总用例数</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">12</td><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">结束时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">2020-03-20 00:26:06</td></tr></tbody></table></td></tr><tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 10px 0;border-bottom: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">如果您对本次邮件结果有任何疑问，请联系 <a href="http://wpa.qq.com/msgrd?v=3&uin=993843278&site=qq&menu=yes" target="_blank" color="#666666">Xingye：993843278</a></a> 反馈。</td></tr></tbody></table></td></tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 16px 0;border-top: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">感谢您的查阅。<font color="#666666">All Rights Reserved by 阿里巴巴 College. Designed and Developed by Mr. 星野.</font></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>'
 2020-03-20 00:26:09: - INFO - 邮件发送成功
+2020-03-20 10:19:02: - INFO - 正在连接恢复./conf/userinfo.sql数据库
+2020-03-20 10:19:02: - INFO - 数据更新成功
+2020-03-20 10:19:02: - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-20 10:19:02: - INFO - ['异常token', 'HTTP', 'HTTP接口自动化报告', '', '', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '基础设置', '', ' ', '', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '设置地址', 'seturl', 'http://47.102.153.86:8080/inter/HTTP', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', 'token边界值', '', ' ', '', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '没有字段', 'post', 'auth', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-20 10:19:02: - INFO - Pass
+2020-03-20 10:19:02: - INFO - ['', '', '添加头', 'addheader', 'token', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '空token', 'post', 'auth', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-20 10:19:02: - INFO - Pass
+2020-03-20 10:19:02: - INFO - ['', '', '添加头', 'addheader', 'token', 'a', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '一位长度', 'post', 'auth', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-20 10:19:02: - INFO - Pass
+2020-03-20 10:19:02: - INFO - ['', '', '添加头', 'addheader', 'token', 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', 'token过长', 'post', 'auth', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-20 10:19:02: - INFO - Pass
+2020-03-20 10:19:02: - INFO - ['', 'token等价类', '', ' ', '', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '添加头', 'addheader', 'token', '109f1a34bdcf4785b6c70a9917d7a49d', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', 'token未授权', 'post', 'auth', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-20 10:19:02: - INFO - Pass
+2020-03-20 10:19:02: - INFO - ['', '', '保存返回的token', 'savejson', 'token', 'token', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '添加头', 'addheader', 'token', '{token}', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', 'token已经授权', 'post', 'auth', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '校验', 'assertequals', 'status', '201', '', '', '']
+2020-03-20 10:19:02: - INFO - Pass
+2020-03-20 10:19:02: - INFO - ['', '', '登录', 'post', 'login', 'username=xingye&password=123456', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', 'token已经登录', 'post', 'auth', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '校验', 'assertequals', 'status', '202', '', '', '']
+2020-03-20 10:19:02: - INFO - Pass
+2020-03-20 10:19:02: - INFO - ['', '', '注销', 'post', 'logout', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果', '']
+2020-03-20 10:19:02: - INFO - ['token校验', '', '', '', '', '', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '基础设置', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '设置地址', 'seturl', '', '', '', '', '', '']
+2020-03-20 10:19:02: - ERROR - url格式错误
+2020-03-20 10:19:02: - INFO - ['', '无token', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '删除头', 'removeheader', 'token', '', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '无token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-20 10:19:02: - INFO - Pass
+2020-03-20 10:19:02: - INFO - ['', 'token值为空', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '添加头', 'addheader', 'token', '', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '空token', 'post', 'login', '', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-20 10:19:02: - INFO - Pass
+2020-03-20 10:19:02: - INFO - ['', 'token过长', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '更新头', 'addheader', 'token', 'adsfklajfkalfkalfaklsdjfkadsljfklasdfjaldsfjklasdfjkdsajfklds', ' ', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', 'token过长', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-20 10:19:02: - INFO - Pass
+2020-03-20 10:19:02: - INFO - ['', 'token未授权', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '更新头', 'addheader', 'token', '0d862fe621ae4bca86489a554945b202', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '有效token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-20 10:19:02: - INFO - Pass
+2020-03-20 10:19:02: - INFO - ['', 'token已经授权', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '有效token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '', '']
+2020-03-20 10:19:02: - INFO - Pass
+2020-03-20 10:19:02: - INFO - ['', 'token已经登录', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '有效token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '校验登录', 'assertequals', 'status', '406', '', '', '', '修改引入的bug']
+2020-03-20 10:19:02: - INFO - Pass
+2020-03-20 10:19:02: - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', 'token超时失效', '需要手动测试', ' ', '', '', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['用户名字段', '', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '无用户名', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '添加头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '保存token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '无用户名', 'post', 'login', 'password=123456', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:19:02: - INFO - Pass
+2020-03-20 10:19:02: - INFO - ['', '用户名为空', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '空用户名', 'post', 'login', 'username=&password=123456', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:19:02: - INFO - Pass
+2020-03-20 10:19:02: - INFO - ['', '用户名特殊字符', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '用户名特殊字符', 'post', 'login', 'username=#￥%a&password=123456', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:19:02: - INFO - Pass
+2020-03-20 10:19:02: - INFO - ['', '', '用户名特殊字符', 'post', 'login', 'username=큐〓㊚a&password=123456', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:19:02: - INFO - Pass
+2020-03-20 10:19:02: - INFO - ['', '', '用户名emoji表情', 'post', 'login', 'username=Wil🚣l&password=123456', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:19:02: - INFO - Pass
+2020-03-20 10:19:02: - INFO - ['', '用户名边界值', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '用户名2位', 'post', 'login', 'username=ll&password=123456', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:19:02: - INFO - Pass
+2020-03-20 10:19:02: - INFO - ['', '', '用户名3位', 'post', 'login', 'username=ill&password=123456', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:19:02: - INFO - Pass
+2020-03-20 10:19:02: - INFO - ['', '', '用户名16位', 'post', 'login', 'username=xingyexingyexingyexingye&password=123456', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:19:02: - INFO - Pass
+2020-03-20 10:19:02: - INFO - ['', '', '用户名17位', 'post', 'login', 'username=W1illxingyexingyexingye&password=123456', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:19:02: - INFO - Pass
+2020-03-20 10:19:02: - INFO - ['', '', '用户名过长', 'post', 'login', 'username=W1illxingyexingyexingyeW1illxingyexingyexingyeW1illxingyexingyexingyeW1illxingyexingyexingye&password=123456', ' ', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:19:02: - INFO - Pass
+2020-03-20 10:19:02: - INFO - ['密码字段', '', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '无密码', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '无密码', 'post', 'login', 'username=xingye', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:19:02: - INFO - Pass
+2020-03-20 10:19:02: - INFO - ['', '密码为空', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '空密码', 'post', 'login', 'username=xingye&password=', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:19:02: - INFO - Pass
+2020-03-20 10:19:02: - INFO - ['', '密码特殊字符', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '密码特殊字符', 'post', 'login', 'username=xingye&password=#￥%a', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:19:02: - INFO - Pass
+2020-03-20 10:19:02: - INFO - ['', '', '密码特殊字符', 'post', 'login', 'username=xingye&password=큐〓㊚a', '', '', '', '']
+2020-03-20 10:19:02: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:19:02: - INFO - Pass
+2020-03-20 10:19:02: - INFO - ['', '', '密码emoji表情', 'post', 'login', 'username=xingye&password=🚣adaa', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:19:03: - INFO - Pass
+2020-03-20 10:19:03: - INFO - ['', '密码边界值', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '密码2位', 'post', 'login', 'username=xingye&password=12', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:19:03: - INFO - Pass
+2020-03-20 10:19:03: - INFO - ['', '', '密码3位', 'post', 'login', 'username=xingye&password=123', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:19:03: - INFO - Pass
+2020-03-20 10:19:03: - INFO - ['', '', '密码16位', 'post', 'login', 'username=xingye&password=1234561234561234', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:19:03: - INFO - Pass
+2020-03-20 10:19:03: - INFO - ['', '', '密码17位', 'post', 'login', 'username=xingye&password=12345612345612345', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:19:03: - INFO - Pass
+2020-03-20 10:19:03: - INFO - ['', '', '密码过长', 'post', 'login', 'username=xingye&password=123456123456123456123456123456123456123456123456', ' ', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:19:03: - INFO - Pass
+2020-03-20 10:19:03: - INFO - ['', '字段测试', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '无用户名密码', 'post', 'login', '', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:19:03: - INFO - Pass
+2020-03-20 10:19:03: - INFO - ['', '', '3个字段', 'post', 'login', 'username=xingye&aaa=bbb&password=123456', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '', '']
+2020-03-20 10:19:03: - INFO - Pass
+2020-03-20 10:19:03: - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['等价类', '', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '等价类用例', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '用户名密码错误', 'post', 'login', 'username=xingye&password=1253', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:19:03: - INFO - Pass
+2020-03-20 10:19:03: - INFO - ['', '', '用户名不存在', 'post', 'login', 'username=Wilil&password=123456', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:19:03: - INFO - Pass
+2020-03-20 10:19:03: - INFO - ['', '', '用户名密码不匹配', 'post', 'login', 'username=xingye&password=tufei', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:19:03: - INFO - Pass
+2020-03-20 10:19:03: - INFO - ['', '', '用户名密码正确', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '', '']
+2020-03-20 10:19:03: - INFO - Pass
+2020-03-20 10:19:03: - INFO - ['SQL注入', '', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', 'SQL注入', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '用户名注入', 'post', 'login', "username=xingye' or 1=1 #&password=123456", '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', 'SQL注入未修复']
+2020-03-20 10:19:03: - INFO - Pass
+2020-03-20 10:19:03: - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '密码注入', 'post', 'login', "username=xingye&password=123456' or 1=1 #", '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:19:03: - INFO - Pass
+2020-03-20 10:19:03: - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-20 10:19:03: - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-20 10:19:03: - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-20 10:19:03: - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-20 10:19:03: - INFO - ['注册用户', '', '', ' ', '', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '注册用户', '', ' ', '', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '设置地址', 'seturl', 'http://47.102.153.86:8080/inter/HTTP', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '添加头', 'addheader', 'token', 'null', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '保存token', 'savejson', 'token', 'token', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '注册', 'post', 'register', 'username=Tester55&pwd=123456&nickname=测试账号&describe=这个账号，是一个测试注册的账号', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '校验注册', 'assertequals', 'status', '200', '', '', '']
+2020-03-20 10:19:03: - INFO - Pass
+2020-03-20 10:19:03: - INFO - ['登录', '', '', ' ', '', 'SS', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '登录', '', ' ', '', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '登录', 'post', 'login', 'username=Tester55&password=123456', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '']
+2020-03-20 10:19:03: - INFO - Pass
+2020-03-20 10:19:03: - INFO - ['', '', '保存id', 'savejson', 'userid', 'id', '', '', '']
+2020-03-20 10:19:03: - INFO - ['获取用户信息', '', '', ' ', '', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '获取用户信息', '', ' ', '', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '获取用户信息', 'post', 'getUserInfo', 'id={id}', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '校验用户信息', 'assertequals', 'status', '200', '', '', '']
+2020-03-20 10:19:03: - INFO - Pass
+2020-03-20 10:19:03: - INFO - ['', '', '校验用户id', 'assertequals', 'id', '{id}', '', '', '']
+2020-03-20 10:19:03: - INFO - Pass
+2020-03-20 10:19:03: - INFO - ['', '', '校验用户昵称', 'assertequals', 'nickname', '测试账号', '', '', '']
+2020-03-20 10:19:03: - INFO - Pass
+2020-03-20 10:19:03: - INFO - ['', '', '校验用户描述', 'assertequals', 'describe', '这个账号，是一个测试注册的账号', '', '', '']
+2020-03-20 10:19:03: - INFO - Pass
+2020-03-20 10:19:03: - INFO - ['注销', '', '', ' ', '', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '注销', '', ' ', '', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '登出', 'post', 'logout', '', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '校验登出', 'assertequals', 'status', '200', '', '', '']
+2020-03-20 10:19:03: - INFO - Pass
+2020-03-20 10:19:03: - INFO - ['', '', '校验登录态', 'post', 'getUserInfo', 'id={id}', '', '', '']
+2020-03-20 10:19:03: - INFO - ['', '', '校验用户信息', 'assertequals', 'status', '405', '', '', '']
+2020-03-20 10:19:03: - INFO - Pass
+2020-03-20 10:19:03: - INFO - {'runtype': 'HTTP', 'title': 'HTTP接口自动化报告', 'starttime': '2020-03-20 10:19:02', 'endtime': '2020-03-20 10:19:03', 'casecount': '141', 'passrate': '99.290%', 'status': 'FAIL'}
+2020-03-20 10:19:07: - INFO - {'from': '993843278@qq.com', 'username': '993843278@qq.com', 'hostname': 'smtp.qq.com', 'password': 'pczuqrfytbunbeji', 'to': ['506135307@qq.com'], 'cc': ["'2819313776@qq.com'"], 'mail_subject': '自动化测试报告', 'mail_encoding': 'utf8', 'filepaths': [], 'filenames': []}
+2020-03-20 10:19:07: - INFO - '<html><style type="text/css">body{ background:#ffffff; margin:0 auto; padding:0; text-align:left; font-size:13px; font-family: "微软雅黑","宋体";}table{ font-size:13px; font-family: "微软雅黑","宋体";}.table_c{border:1px solid #ccc;border-collapse:collapse; }.table_c td{border:1px solid #ccc; border-collapse:collapse;}.table_b{border:1px solid #666;border-collapse:collapse; }.table_b td{ border-collapse:collapse; border:1px solid #ccc;}.table_b th{color:#fff; background:#666;}a:link{ color:#3366cc; font-weight:normal; }a:visited { color: #3366cc;}a:hover{ color:#000; }a:active { color:#3366cc; }td{ line-height:20px;}.case-group {border: 1px solid transparent;border-color: #ddd;line-height:5px;}.case-group a:link,a:hover{color:#0092fa;text-decoration:none;}.group-模拟器测试用例{margin: 10px;}.case-模拟器测试用例{height: 30px;}.case-case {border-top: 1px solid;border-color: #ddd;padding: 13px;word-wrap: break-word;}.statuclass{float:right;right:5%;position:relative;}.countclass{float:right;right:20%;position:relative;}.passclass{float:right;right:30%;position:relative;}.casename{position:relative;left:3%;}.righta{float:right;font-size:20px;}.case-file{border: 2px #8cbfff solid;border-radius: 5px;}</style><table width="650" ="0" cellspacing="0" align="center" cellpadding="0" style="border-radius: 15px;background-color: #f6f5f5;border: 1px #ffe4da solid;"><tbody><tr><td><table width="650" border="0" cellpadding="0" cellspacing="0" style="border-radius: 15px 15px 0 0;background-color: #ffffff;"><tbody><tr><td width="137"><img src="http://112.741.191.10/wp-content/uploads/2018/07/logo_middle.png" width="137" height="80"></td><td align="left" style="font-size: 13px;color: #999999;padding-top: 26px;right: 10px;position: relative;top: -10px;text-align:right;"><h style="font-size: 20px;font-family: cursive;line-height: 30px;color: #8cbfff;">Hi All ！ </h><br>此为来自阿里巴巴自动化小组测试邮件，请不要直接回复。</td></tr></tbody></table><br><table width="592" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="font-size: 14px; color: 333333; font-weight: bold; padding-bottom:15px;">测试报告：<font color="ff6600">自动化测试用例</font></td></tr><tr><td style="border: 2px #8cbfff solid;border-radius: 5px;"><table width="572" border="0" align="center" class="table_c" style="border-collapse:collapse;margin: 10px;"><tbody><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试内容</td><td colspan="3" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><h4 style="line-height: 1px;margin:0;">HTTP接口自动化报告</h4></td></tr><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试状态</td><td height="28" width="150" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><font style="font-weight: bold;font-size: 14px;color: red;">FAIL</font></td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">类型</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">HTTP</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">通过率</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">99.290%</td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">开始时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">2020-03-20 10:19:02</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">总用例数</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">141</td><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">结束时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">2020-03-20 10:19:03</td></tr></tbody></table></td></tr><tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 10px 0;border-bottom: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">如果您对本次邮件结果有任何疑问，请联系 <a href="http://wpa.qq.com/msgrd?v=3&uin=993843278&site=qq&menu=yes" target="_blank" color="#666666">Xingye：993843278</a></a> 反馈。</td></tr></tbody></table></td></tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 16px 0;border-top: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">感谢您的查阅。<font color="#666666">All Rights Reserved by 阿里巴巴 College. Designed and Developed by Mr. 星野.</font></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>'
+2020-03-20 10:19:08: - INFO - 邮件发送成功
+2020-03-20 10:20:13: - INFO - 正在连接恢复./conf/userinfo.sql数据库
+2020-03-20 10:20:14: - INFO - 数据更新成功
+2020-03-20 10:20:14: - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-20 10:20:14: - INFO - ['异常token', 'HTTP', 'HTTP接口自动化报告', '', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '基础设置', '', ' ', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '设置地址', 'seturl', 'http://47.102.153.86:8080/inter/HTTP', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', 'token边界值', '', ' ', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '没有字段', 'post', 'auth', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '', '添加头', 'addheader', 'token', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '空token', 'post', 'auth', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '', '添加头', 'addheader', 'token', 'a', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '一位长度', 'post', 'auth', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '', '添加头', 'addheader', 'token', 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', 'token过长', 'post', 'auth', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', 'token等价类', '', ' ', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '添加头', 'addheader', 'token', '109f1a34bdcf4785b6c70a9917d7a49d', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', 'token未授权', 'post', 'auth', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '', '保存返回的token', 'savejson', 'token', 'token', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '添加头', 'addheader', 'token', '{token}', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', 'token已经授权', 'post', 'auth', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验', 'assertequals', 'status', '201', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '', '登录', 'post', 'login', 'username=xingye&password=123456', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', 'token已经登录', 'post', 'auth', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验', 'assertequals', 'status', '202', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '', '注销', 'post', 'logout', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果', '']
+2020-03-20 10:20:14: - INFO - ['token校验', '', '', '', '', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '基础设置', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '设置地址', 'seturl', '', '', '', '', '', '']
+2020-03-20 10:20:14: - ERROR - url格式错误
+2020-03-20 10:20:14: - INFO - ['', '无token', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '删除头', 'removeheader', 'token', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '无token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', 'token值为空', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '添加头', 'addheader', 'token', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '空token', 'post', 'login', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', 'token过长', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '更新头', 'addheader', 'token', 'adsfklajfkalfkalfaklsdjfkadsljfklasdfjaldsfjklasdfjkdsajfklds', ' ', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', 'token过长', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', 'token未授权', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '更新头', 'addheader', 'token', '0d862fe621ae4bca86489a554945b202', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '有效token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', 'token已经授权', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '有效token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', 'token已经登录', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '有效token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '406', '', '', '', '修改引入的bug']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', 'token超时失效', '需要手动测试', ' ', '', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['用户名字段', '', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '无用户名', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '添加头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '保存token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '无用户名', 'post', 'login', 'password=123456', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '用户名为空', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '空用户名', 'post', 'login', 'username=&password=123456', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '用户名特殊字符', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '用户名特殊字符', 'post', 'login', 'username=#￥%a&password=123456', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '', '用户名特殊字符', 'post', 'login', 'username=큐〓㊚a&password=123456', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '', '用户名emoji表情', 'post', 'login', 'username=Wil🚣l&password=123456', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '用户名边界值', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '用户名2位', 'post', 'login', 'username=ll&password=123456', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '', '用户名3位', 'post', 'login', 'username=ill&password=123456', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '', '用户名16位', 'post', 'login', 'username=xingyexingyexingyexingye&password=123456', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '', '用户名17位', 'post', 'login', 'username=W1illxingyexingyexingye&password=123456', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '', '用户名过长', 'post', 'login', 'username=W1illxingyexingyexingyeW1illxingyexingyexingyeW1illxingyexingyexingyeW1illxingyexingyexingye&password=123456', ' ', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['密码字段', '', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '无密码', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '无密码', 'post', 'login', 'username=xingye', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '密码为空', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '空密码', 'post', 'login', 'username=xingye&password=', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '密码特殊字符', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '密码特殊字符', 'post', 'login', 'username=xingye&password=#￥%a', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '', '密码特殊字符', 'post', 'login', 'username=xingye&password=큐〓㊚a', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '', '密码emoji表情', 'post', 'login', 'username=xingye&password=🚣adaa', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '密码边界值', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '密码2位', 'post', 'login', 'username=xingye&password=12', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '', '密码3位', 'post', 'login', 'username=xingye&password=123', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '', '密码16位', 'post', 'login', 'username=xingye&password=1234561234561234', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '', '密码17位', 'post', 'login', 'username=xingye&password=12345612345612345', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '', '密码过长', 'post', 'login', 'username=xingye&password=123456123456123456123456123456123456123456123456', ' ', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '字段测试', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '无用户名密码', 'post', 'login', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '', '3个字段', 'post', 'login', 'username=xingye&aaa=bbb&password=123456', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['等价类', '', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '等价类用例', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '用户名密码错误', 'post', 'login', 'username=xingye&password=1253', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '', '用户名不存在', 'post', 'login', 'username=Wilil&password=123456', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '', '用户名密码不匹配', 'post', 'login', 'username=xingye&password=tufei', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '', '用户名密码正确', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['SQL注入', '', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', 'SQL注入', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '用户名注入', 'post', 'login', "username=xingye' or 1=1 #&password=123456", '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', 'SQL注入未修复']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '密码注入', 'post', 'login', "username=xingye&password=123456' or 1=1 #", '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-20 10:20:14: - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-20 10:20:14: - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-20 10:20:14: - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-20 10:20:14: - INFO - ['注册用户', '', '', ' ', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '注册用户', '', ' ', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '设置地址', 'seturl', 'http://47.102.153.86:8080/inter/HTTP', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '添加头', 'addheader', 'token', 'null', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '保存token', 'savejson', 'token', 'token', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '注册', 'post', 'register', 'username=Tester55&pwd=123456&nickname=测试账号&describe=这个账号，是一个测试注册的账号', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '校验注册', 'assertequals', 'status', '200', '', '', '']
+2020-03-20 10:20:14: - INFO - Pass
+2020-03-20 10:20:14: - INFO - ['登录', '', '', ' ', '', 'SS', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '登录', '', ' ', '', '', '', '', '']
+2020-03-20 10:20:14: - INFO - ['', '', '登录', 'post', 'login', 'username=Tester55&password=123456', '', '', '']
+2020-03-20 10:20:15: - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '']
+2020-03-20 10:20:15: - INFO - Pass
+2020-03-20 10:20:15: - INFO - ['', '', '保存id', 'savejson', 'userid', 'id', '', '', '']
+2020-03-20 10:20:15: - INFO - ['获取用户信息', '', '', ' ', '', '', '', '', '']
+2020-03-20 10:20:15: - INFO - ['', '获取用户信息', '', ' ', '', '', '', '', '']
+2020-03-20 10:20:15: - INFO - ['', '', '获取用户信息', 'post', 'getUserInfo', 'id={id}', '', '', '']
+2020-03-20 10:20:15: - INFO - ['', '', '校验用户信息', 'assertequals', 'status', '200', '', '', '']
+2020-03-20 10:20:15: - INFO - Pass
+2020-03-20 10:20:15: - INFO - ['', '', '校验用户id', 'assertequals', 'id', '{id}', '', '', '']
+2020-03-20 10:20:15: - INFO - Pass
+2020-03-20 10:20:15: - INFO - ['', '', '校验用户昵称', 'assertequals', 'nickname', '测试账号', '', '', '']
+2020-03-20 10:20:15: - INFO - Pass
+2020-03-20 10:20:15: - INFO - ['', '', '校验用户描述', 'assertequals', 'describe', '这个账号，是一个测试注册的账号', '', '', '']
+2020-03-20 10:20:15: - INFO - Pass
+2020-03-20 10:20:15: - INFO - ['注销', '', '', ' ', '', '', '', '', '']
+2020-03-20 10:20:15: - INFO - ['', '注销', '', ' ', '', '', '', '', '']
+2020-03-20 10:20:15: - INFO - ['', '', '登出', 'post', 'logout', '', '', '', '']
+2020-03-20 10:20:15: - INFO - ['', '', '校验登出', 'assertequals', 'status', '200', '', '', '']
+2020-03-20 10:20:15: - INFO - Pass
+2020-03-20 10:20:15: - INFO - ['', '', '校验登录态', 'post', 'getUserInfo', 'id={id}', '', '', '']
+2020-03-20 10:20:15: - INFO - ['', '', '校验用户信息', 'assertequals', 'status', '405', '', '', '']
+2020-03-20 10:20:15: - INFO - Pass
+2020-03-20 10:20:15: - INFO - {'runtype': 'HTTP', 'title': 'HTTP接口自动化报告', 'starttime': '2020-03-20 10:20:14', 'endtime': '2020-03-20 10:20:15', 'casecount': '141', 'passrate': '99.29%', 'status': 'FAIL'}
+2020-03-20 10:20:17: - INFO - {'from': '993843278@qq.com', 'username': '993843278@qq.com', 'hostname': 'smtp.qq.com', 'password': 'pczuqrfytbunbeji', 'to': ['506135307@qq.com'], 'cc': ["'2819313776@qq.com'"], 'mail_subject': '自动化测试报告', 'mail_encoding': 'utf8', 'filepaths': [], 'filenames': []}
+2020-03-20 10:20:17: - INFO - '<html><style type="text/css">body{ background:#ffffff; margin:0 auto; padding:0; text-align:left; font-size:13px; font-family: "微软雅黑","宋体";}table{ font-size:13px; font-family: "微软雅黑","宋体";}.table_c{border:1px solid #ccc;border-collapse:collapse; }.table_c td{border:1px solid #ccc; border-collapse:collapse;}.table_b{border:1px solid #666;border-collapse:collapse; }.table_b td{ border-collapse:collapse; border:1px solid #ccc;}.table_b th{color:#fff; background:#666;}a:link{ color:#3366cc; font-weight:normal; }a:visited { color: #3366cc;}a:hover{ color:#000; }a:active { color:#3366cc; }td{ line-height:20px;}.case-group {border: 1px solid transparent;border-color: #ddd;line-height:5px;}.case-group a:link,a:hover{color:#0092fa;text-decoration:none;}.group-模拟器测试用例{margin: 10px;}.case-模拟器测试用例{height: 30px;}.case-case {border-top: 1px solid;border-color: #ddd;padding: 13px;word-wrap: break-word;}.statuclass{float:right;right:5%;position:relative;}.countclass{float:right;right:20%;position:relative;}.passclass{float:right;right:30%;position:relative;}.casename{position:relative;left:3%;}.righta{float:right;font-size:20px;}.case-file{border: 2px #8cbfff solid;border-radius: 5px;}</style><table width="650" ="0" cellspacing="0" align="center" cellpadding="0" style="border-radius: 15px;background-color: #f6f5f5;border: 1px #ffe4da solid;"><tbody><tr><td><table width="650" border="0" cellpadding="0" cellspacing="0" style="border-radius: 15px 15px 0 0;background-color: #ffffff;"><tbody><tr><td width="137"><img src="http://112.741.191.10/wp-content/uploads/2018/07/logo_middle.png" width="137" height="80"></td><td align="left" style="font-size: 13px;color: #999999;padding-top: 26px;right: 10px;position: relative;top: -10px;text-align:right;"><h style="font-size: 20px;font-family: cursive;line-height: 30px;color: #8cbfff;">Hi All ！ </h><br>此为来自阿里巴巴自动化小组测试邮件，请不要直接回复。</td></tr></tbody></table><br><table width="592" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="font-size: 14px; color: 333333; font-weight: bold; padding-bottom:15px;">测试报告：<font color="ff6600">自动化测试用例</font></td></tr><tr><td style="border: 2px #8cbfff solid;border-radius: 5px;"><table width="572" border="0" align="center" class="table_c" style="border-collapse:collapse;margin: 10px;"><tbody><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试内容</td><td colspan="3" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><h4 style="line-height: 1px;margin:0;">HTTP接口自动化报告</h4></td></tr><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试状态</td><td height="28" width="150" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><font style="font-weight: bold;font-size: 14px;color: red;">FAIL</font></td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">类型</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">HTTP</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">通过率</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">99.29%</td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">开始时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">2020-03-20 10:20:14</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">总用例数</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">141</td><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">结束时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">2020-03-20 10:20:15</td></tr></tbody></table></td></tr><tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 10px 0;border-bottom: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">如果您对本次邮件结果有任何疑问，请联系 <a href="http://wpa.qq.com/msgrd?v=3&uin=993843278&site=qq&menu=yes" target="_blank" color="#666666">Xingye：993843278</a></a> 反馈。</td></tr></tbody></table></td></tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 16px 0;border-top: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">感谢您的查阅。<font color="#666666">All Rights Reserved by 阿里巴巴 College. Designed and Developed by Mr. 星野.</font></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>'
+2020-03-20 10:20:18: - INFO - 邮件发送成功
+2020-03-20 10:23:51: - INFO - 正在连接恢复./conf/userinfo.sql数据库
+2020-03-20 10:23:51: - INFO - 数据更新成功
+2020-03-20 10:23:51: - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-20 10:23:51: - INFO - ['异常token', 'HTTP', 'HTTP接口自动化报告', '', '', '', '', '', '']
+2020-03-20 10:23:51: - INFO - ['', '基础设置', '', ' ', '', '', '', '', '']
+2020-03-20 10:23:51: - INFO - ['', '', '设置地址', 'seturl', 'http://47.102.153.86:8080/inter/HTTP', '', '', '', '']
+2020-03-20 10:23:51: - INFO - ['', 'token边界值', '', ' ', '', '', '', '', '']
+2020-03-20 10:23:51: - INFO - ['', '', '没有字段', 'post', 'auth', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-20 10:24:50: - INFO - Pass
+2020-03-20 10:24:50: - INFO - ['', '', '添加头', 'addheader', 'token', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '空token', 'post', 'auth', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-20 10:24:50: - INFO - Pass
+2020-03-20 10:24:50: - INFO - ['', '', '添加头', 'addheader', 'token', 'a', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '一位长度', 'post', 'auth', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-20 10:24:50: - INFO - Pass
+2020-03-20 10:24:50: - INFO - ['', '', '添加头', 'addheader', 'token', 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', 'token过长', 'post', 'auth', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-20 10:24:50: - INFO - Pass
+2020-03-20 10:24:50: - INFO - ['', 'token等价类', '', ' ', '', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '添加头', 'addheader', 'token', '109f1a34bdcf4785b6c70a9917d7a49d', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', 'token未授权', 'post', 'auth', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-20 10:24:50: - INFO - Pass
+2020-03-20 10:24:50: - INFO - ['', '', '保存返回的token', 'savejson', 'token', 'token', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '添加头', 'addheader', 'token', '{token}', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', 'token已经授权', 'post', 'auth', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '校验', 'assertequals', 'status', '201', '', '', '']
+2020-03-20 10:24:50: - INFO - Pass
+2020-03-20 10:24:50: - INFO - ['', '', '登录', 'post', 'login', 'username=xingye&password=123456', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', 'token已经登录', 'post', 'auth', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '校验', 'assertequals', 'status', '202', '', '', '']
+2020-03-20 10:24:50: - INFO - Pass
+2020-03-20 10:24:50: - INFO - ['', '', '注销', 'post', 'logout', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果', '']
+2020-03-20 10:24:50: - INFO - ['token校验', '', '', '', '', '', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '基础设置', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '设置地址', 'seturl', 'http://47.102.153.86:8080/inter/HTTP', '', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '无token', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '删除头', 'removeheader', 'token', '', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '无token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-20 10:24:50: - INFO - Pass
+2020-03-20 10:24:50: - INFO - ['', 'token值为空', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '添加头', 'addheader', 'token', '', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '空token', 'post', 'login', '', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-20 10:24:50: - INFO - Pass
+2020-03-20 10:24:50: - INFO - ['', 'token过长', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '更新头', 'addheader', 'token', 'adsfklajfkalfkalfaklsdjfkadsljfklasdfjaldsfjklasdfjkdsajfklds', ' ', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', 'token过长', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-20 10:24:50: - INFO - Pass
+2020-03-20 10:24:50: - INFO - ['', 'token未授权', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '更新头', 'addheader', 'token', '0d862fe621ae4bca86489a554945b202', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '有效token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-20 10:24:50: - INFO - Pass
+2020-03-20 10:24:50: - INFO - ['', 'token已经授权', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '有效token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '', '']
+2020-03-20 10:24:50: - INFO - Pass
+2020-03-20 10:24:50: - INFO - ['', 'token已经登录', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '有效token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '校验登录', 'assertequals', 'status', '406', '', '', '', '修改引入的bug']
+2020-03-20 10:24:50: - INFO - Pass
+2020-03-20 10:24:50: - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', 'token超时失效', '需要手动测试', ' ', '', '', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['用户名字段', '', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '无用户名', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '添加头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '保存token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '无用户名', 'post', 'login', 'password=123456', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:24:50: - INFO - Pass
+2020-03-20 10:24:50: - INFO - ['', '用户名为空', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '空用户名', 'post', 'login', 'username=&password=123456', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:24:50: - INFO - Pass
+2020-03-20 10:24:50: - INFO - ['', '用户名特殊字符', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '用户名特殊字符', 'post', 'login', 'username=#￥%a&password=123456', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:24:50: - INFO - Pass
+2020-03-20 10:24:50: - INFO - ['', '', '用户名特殊字符', 'post', 'login', 'username=큐〓㊚a&password=123456', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:24:50: - INFO - Pass
+2020-03-20 10:24:50: - INFO - ['', '', '用户名emoji表情', 'post', 'login', 'username=Wil🚣l&password=123456', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:24:50: - INFO - Pass
+2020-03-20 10:24:50: - INFO - ['', '用户名边界值', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:24:50: - INFO - ['', '', '用户名2位', 'post', 'login', 'username=ll&password=123456', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:24:51: - INFO - Pass
+2020-03-20 10:24:51: - INFO - ['', '', '用户名3位', 'post', 'login', 'username=ill&password=123456', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:24:51: - INFO - Pass
+2020-03-20 10:24:51: - INFO - ['', '', '用户名16位', 'post', 'login', 'username=xingyexingyexingyexingye&password=123456', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:24:51: - INFO - Pass
+2020-03-20 10:24:51: - INFO - ['', '', '用户名17位', 'post', 'login', 'username=W1illxingyexingyexingye&password=123456', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:24:51: - INFO - Pass
+2020-03-20 10:24:51: - INFO - ['', '', '用户名过长', 'post', 'login', 'username=W1illxingyexingyexingyeW1illxingyexingyexingyeW1illxingyexingyexingyeW1illxingyexingyexingye&password=123456', ' ', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:24:51: - INFO - Pass
+2020-03-20 10:24:51: - INFO - ['密码字段', '', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '无密码', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '无密码', 'post', 'login', 'username=xingye', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:24:51: - INFO - Pass
+2020-03-20 10:24:51: - INFO - ['', '密码为空', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '空密码', 'post', 'login', 'username=xingye&password=', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:24:51: - INFO - Pass
+2020-03-20 10:24:51: - INFO - ['', '密码特殊字符', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '密码特殊字符', 'post', 'login', 'username=xingye&password=#￥%a', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:24:51: - INFO - Pass
+2020-03-20 10:24:51: - INFO - ['', '', '密码特殊字符', 'post', 'login', 'username=xingye&password=큐〓㊚a', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:24:51: - INFO - Pass
+2020-03-20 10:24:51: - INFO - ['', '', '密码emoji表情', 'post', 'login', 'username=xingye&password=🚣adaa', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:24:51: - INFO - Pass
+2020-03-20 10:24:51: - INFO - ['', '密码边界值', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '密码2位', 'post', 'login', 'username=xingye&password=12', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:24:51: - INFO - Pass
+2020-03-20 10:24:51: - INFO - ['', '', '密码3位', 'post', 'login', 'username=xingye&password=123', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:24:51: - INFO - Pass
+2020-03-20 10:24:51: - INFO - ['', '', '密码16位', 'post', 'login', 'username=xingye&password=1234561234561234', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:24:51: - INFO - Pass
+2020-03-20 10:24:51: - INFO - ['', '', '密码17位', 'post', 'login', 'username=xingye&password=12345612345612345', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:24:51: - INFO - Pass
+2020-03-20 10:24:51: - INFO - ['', '', '密码过长', 'post', 'login', 'username=xingye&password=123456123456123456123456123456123456123456123456', ' ', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:24:51: - INFO - Pass
+2020-03-20 10:24:51: - INFO - ['', '字段测试', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '无用户名密码', 'post', 'login', '', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-20 10:24:51: - INFO - Pass
+2020-03-20 10:24:51: - INFO - ['', '', '3个字段', 'post', 'login', 'username=xingye&aaa=bbb&password=123456', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '', '']
+2020-03-20 10:24:51: - INFO - Pass
+2020-03-20 10:24:51: - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['等价类', '', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '等价类用例', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '用户名密码错误', 'post', 'login', 'username=xingye&password=1253', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:24:51: - INFO - Pass
+2020-03-20 10:24:51: - INFO - ['', '', '用户名不存在', 'post', 'login', 'username=Wilil&password=123456', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:24:51: - INFO - Pass
+2020-03-20 10:24:51: - INFO - ['', '', '用户名密码不匹配', 'post', 'login', 'username=xingye&password=tufei', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:24:51: - INFO - Pass
+2020-03-20 10:24:51: - INFO - ['', '', '用户名密码正确', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '', '']
+2020-03-20 10:24:51: - INFO - Pass
+2020-03-20 10:24:51: - INFO - ['SQL注入', '', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', 'SQL注入', '', ' ', '', '', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '用户名注入', 'post', 'login', "username=xingye' or 1=1 #&password=123456", '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', 'SQL注入未修复']
+2020-03-20 10:24:51: - INFO - Pass
+2020-03-20 10:24:51: - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '密码注入', 'post', 'login', "username=xingye&password=123456' or 1=1 #", '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-20 10:24:51: - INFO - Pass
+2020-03-20 10:24:51: - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-20 10:24:51: - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-20 10:24:51: - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-20 10:24:51: - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-20 10:24:51: - INFO - ['注册用户', '', '', ' ', '', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '注册用户', '', ' ', '', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '设置地址', 'seturl', 'http://47.102.153.86:8080/inter/HTTP', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '添加头', 'addheader', 'token', 'null', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '保存token', 'savejson', 'token', 'token', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '注册', 'post', 'register', 'username=Tester55&pwd=123456&nickname=测试账号&describe=这个账号，是一个测试注册的账号', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '校验注册', 'assertequals', 'status', '200', '', '', '']
+2020-03-20 10:24:51: - INFO - Pass
+2020-03-20 10:24:51: - INFO - ['登录', '', '', ' ', '', 'SS', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '登录', '', ' ', '', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '登录', 'post', 'login', 'username=Tester55&password=123456', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '']
+2020-03-20 10:24:51: - INFO - Pass
+2020-03-20 10:24:51: - INFO - ['', '', '保存id', 'savejson', 'userid', 'id', '', '', '']
+2020-03-20 10:24:51: - INFO - ['获取用户信息', '', '', ' ', '', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '获取用户信息', '', ' ', '', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '获取用户信息', 'post', 'getUserInfo', 'id={id}', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '校验用户信息', 'assertequals', 'status', '200', '', '', '']
+2020-03-20 10:24:51: - INFO - Pass
+2020-03-20 10:24:51: - INFO - ['', '', '校验用户id', 'assertequals', 'id', '{id}', '', '', '']
+2020-03-20 10:24:51: - INFO - Pass
+2020-03-20 10:24:51: - INFO - ['', '', '校验用户昵称', 'assertequals', 'nickname', '测试账号', '', '', '']
+2020-03-20 10:24:51: - INFO - Pass
+2020-03-20 10:24:51: - INFO - ['', '', '校验用户描述', 'assertequals', 'describe', '这个账号，是一个测试注册的账号', '', '', '']
+2020-03-20 10:24:51: - INFO - Pass
+2020-03-20 10:24:51: - INFO - ['注销', '', '', ' ', '', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '注销', '', ' ', '', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '登出', 'post', 'logout', '', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '校验登出', 'assertequals', 'status', '200', '', '', '']
+2020-03-20 10:24:51: - INFO - Pass
+2020-03-20 10:24:51: - INFO - ['', '', '校验登录态', 'post', 'getUserInfo', 'id={id}', '', '', '']
+2020-03-20 10:24:51: - INFO - ['', '', '校验用户信息', 'assertequals', 'status', '405', '', '', '']
+2020-03-20 10:24:51: - INFO - Pass
+2020-03-20 10:24:51: - INFO - {'runtype': 'HTTP', 'title': 'HTTP接口自动化报告', 'starttime': '2020-03-20 10:23:51', 'endtime': '2020-03-20 10:24:51', 'casecount': '141', 'passrate': '100.0%', 'status': 'PASS'}
+2020-03-20 10:24:53: - INFO - {'from': '993843278@qq.com', 'username': '993843278@qq.com', 'hostname': 'smtp.qq.com', 'password': 'pczuqrfytbunbeji', 'to': ['506135307@qq.com'], 'cc': ["'2819313776@qq.com'"], 'mail_subject': '自动化测试报告', 'mail_encoding': 'utf8', 'filepaths': [], 'filenames': []}
+2020-03-20 10:24:53: - INFO - '<html><style type="text/css">body{ background:#ffffff; margin:0 auto; padding:0; text-align:left; font-size:13px; font-family: "微软雅黑","宋体";}table{ font-size:13px; font-family: "微软雅黑","宋体";}.table_c{border:1px solid #ccc;border-collapse:collapse; }.table_c td{border:1px solid #ccc; border-collapse:collapse;}.table_b{border:1px solid #666;border-collapse:collapse; }.table_b td{ border-collapse:collapse; border:1px solid #ccc;}.table_b th{color:#fff; background:#666;}a:link{ color:#3366cc; font-weight:normal; }a:visited { color: #3366cc;}a:hover{ color:#000; }a:active { color:#3366cc; }td{ line-height:20px;}.case-group {border: 1px solid transparent;border-color: #ddd;line-height:5px;}.case-group a:link,a:hover{color:#0092fa;text-decoration:none;}.group-模拟器测试用例{margin: 10px;}.case-模拟器测试用例{height: 30px;}.case-case {border-top: 1px solid;border-color: #ddd;padding: 13px;word-wrap: break-word;}.statuclass{float:right;right:5%;position:relative;}.countclass{float:right;right:20%;position:relative;}.passclass{float:right;right:30%;position:relative;}.casename{position:relative;left:3%;}.righta{float:right;font-size:20px;}.case-file{border: 2px #8cbfff solid;border-radius: 5px;}</style><table width="650" ="0" cellspacing="0" align="center" cellpadding="0" style="border-radius: 15px;background-color: #f6f5f5;border: 1px #ffe4da solid;"><tbody><tr><td><table width="650" border="0" cellpadding="0" cellspacing="0" style="border-radius: 15px 15px 0 0;background-color: #ffffff;"><tbody><tr><td width="137"><img src="http://112.741.191.10/wp-content/uploads/2018/07/logo_middle.png" width="137" height="80"></td><td align="left" style="font-size: 13px;color: #999999;padding-top: 26px;right: 10px;position: relative;top: -10px;text-align:right;"><h style="font-size: 20px;font-family: cursive;line-height: 30px;color: #8cbfff;">Hi All ！ </h><br>此为来自阿里巴巴自动化小组测试邮件，请不要直接回复。</td></tr></tbody></table><br><table width="592" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="font-size: 14px; color: 333333; font-weight: bold; padding-bottom:15px;">测试报告：<font color="ff6600">自动化测试用例</font></td></tr><tr><td style="border: 2px #8cbfff solid;border-radius: 5px;"><table width="572" border="0" align="center" class="table_c" style="border-collapse:collapse;margin: 10px;"><tbody><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试内容</td><td colspan="3" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><h4 style="line-height: 1px;margin:0;">HTTP接口自动化报告</h4></td></tr><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试状态</td><td height="28" width="150" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><font style="font-weight: bold;font-size: 14px;color: #00d800;">PASS</font></td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">类型</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">HTTP</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">通过率</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">100.0%</td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">开始时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">2020-03-20 10:23:51</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">总用例数</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">141</td><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">结束时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">2020-03-20 10:24:51</td></tr></tbody></table></td></tr><tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 10px 0;border-bottom: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">如果您对本次邮件结果有任何疑问，请联系 <a href="http://wpa.qq.com/msgrd?v=3&uin=993843278&site=qq&menu=yes" target="_blank" color="#666666">Xingye：993843278</a></a> 反馈。</td></tr></tbody></table></td></tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 16px 0;border-top: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">感谢您的查阅。<font color="#666666">All Rights Reserved by 阿里巴巴 College. Designed and Developed by Mr. 星野.</font></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>'
+2020-03-20 10:24:54: - INFO - 邮件发送成功
+2020-03-21 00:10:52: - INFO - 正在连接恢复./conf/userinfo.sql数据库
+2020-03-21 00:10:52: - INFO - 数据更新成功
+2020-03-21 00:10:52: - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-21 00:10:52: - INFO - ['异常token', 'HTTP', 'HTTP接口自动化报告', '', '', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '基础设置', '', ' ', '', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '设置地址', 'seturl', 'http://47.102.153.86:8080/inter/HTTP', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', 'token边界值', '', ' ', '', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '没有字段', 'post', 'auth', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-21 00:10:52: - INFO - Pass
+2020-03-21 00:10:52: - INFO - ['', '', '添加头', 'addheader', 'token', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '空token', 'post', 'auth', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-21 00:10:52: - INFO - Pass
+2020-03-21 00:10:52: - INFO - ['', '', '添加头', 'addheader', 'token', 'a', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '一位长度', 'post', 'auth', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-21 00:10:52: - INFO - Pass
+2020-03-21 00:10:52: - INFO - ['', '', '添加头', 'addheader', 'token', 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', 'token过长', 'post', 'auth', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-21 00:10:52: - INFO - Pass
+2020-03-21 00:10:52: - INFO - ['', 'token等价类', '', ' ', '', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '添加头', 'addheader', 'token', '109f1a34bdcf4785b6c70a9917d7a49d', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', 'token未授权', 'post', 'auth', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-21 00:10:52: - INFO - Pass
+2020-03-21 00:10:52: - INFO - ['', '', '保存返回的token', 'savejson', 'token', 'token', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '添加头', 'addheader', 'token', '{token}', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', 'token已经授权', 'post', 'auth', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '校验', 'assertequals', 'status', '201', '', '', '']
+2020-03-21 00:10:52: - INFO - Pass
+2020-03-21 00:10:52: - INFO - ['', '', '登录', 'post', 'login', 'username=xingye&password=123456', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', 'token已经登录', 'post', 'auth', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '校验', 'assertequals', 'status', '202', '', '', '']
+2020-03-21 00:10:52: - INFO - Pass
+2020-03-21 00:10:52: - INFO - ['', '', '注销', 'post', 'logout', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果', '']
+2020-03-21 00:10:52: - INFO - ['token校验', '', '', '', '', '', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '基础设置', '', ' ', '', '', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '设置地址', 'seturl', 'http://47.102.153.86:8080/inter/HTTP', '', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '无token', '', ' ', '', '', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '删除头', 'removeheader', 'token', '', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '无token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-21 00:10:52: - INFO - Pass
+2020-03-21 00:10:52: - INFO - ['', 'token值为空', '', ' ', '', '', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '添加头', 'addheader', 'token', '', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '空token', 'post', 'login', '', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-21 00:10:52: - INFO - Pass
+2020-03-21 00:10:52: - INFO - ['', 'token过长', '', ' ', '', '', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '更新头', 'addheader', 'token', 'adsfklajfkalfkalfaklsdjfkadsljfklasdfjaldsfjklasdfjkdsajfklds', ' ', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', 'token过长', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-21 00:10:52: - INFO - Pass
+2020-03-21 00:10:52: - INFO - ['', 'token未授权', '', ' ', '', '', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '更新头', 'addheader', 'token', '0d862fe621ae4bca86489a554945b202', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '有效token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-21 00:10:52: - INFO - Pass
+2020-03-21 00:10:52: - INFO - ['', 'token已经授权', '', ' ', '', '', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '有效token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '', '']
+2020-03-21 00:10:52: - INFO - Pass
+2020-03-21 00:10:52: - INFO - ['', 'token已经登录', '', ' ', '', '', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '有效token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '校验登录', 'assertequals', 'status', '406', '', '', '', '修改引入的bug']
+2020-03-21 00:10:52: - INFO - Pass
+2020-03-21 00:10:52: - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', 'token超时失效', '需要手动测试', ' ', '', '', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['用户名字段', '', '', ' ', '', '', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '无用户名', '', ' ', '', '', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '添加头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '保存token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '无用户名', 'post', 'login', 'password=123456', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-21 00:10:52: - INFO - Pass
+2020-03-21 00:10:52: - INFO - ['', '用户名为空', '', ' ', '', '', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '空用户名', 'post', 'login', 'username=&password=123456', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-21 00:10:52: - INFO - Pass
+2020-03-21 00:10:52: - INFO - ['', '用户名特殊字符', '', ' ', '', '', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '用户名特殊字符', 'post', 'login', 'username=#￥%a&password=123456', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-21 00:10:52: - INFO - Pass
+2020-03-21 00:10:52: - INFO - ['', '', '用户名特殊字符', 'post', 'login', 'username=큐〓㊚a&password=123456', '', '', '', '']
+2020-03-21 00:10:52: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-21 00:10:52: - INFO - Pass
+2020-03-21 00:10:52: - INFO - ['', '', '用户名emoji表情', 'post', 'login', 'username=Wil🚣l&password=123456', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-21 00:10:53: - INFO - Pass
+2020-03-21 00:10:53: - INFO - ['', '用户名边界值', '', ' ', '', '', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '用户名2位', 'post', 'login', 'username=ll&password=123456', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-21 00:10:53: - INFO - Pass
+2020-03-21 00:10:53: - INFO - ['', '', '用户名3位', 'post', 'login', 'username=ill&password=123456', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-21 00:10:53: - INFO - Pass
+2020-03-21 00:10:53: - INFO - ['', '', '用户名16位', 'post', 'login', 'username=xingyexingyexingyexingye&password=123456', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-21 00:10:53: - INFO - Pass
+2020-03-21 00:10:53: - INFO - ['', '', '用户名17位', 'post', 'login', 'username=W1illxingyexingyexingye&password=123456', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-21 00:10:53: - INFO - Pass
+2020-03-21 00:10:53: - INFO - ['', '', '用户名过长', 'post', 'login', 'username=W1illxingyexingyexingyeW1illxingyexingyexingyeW1illxingyexingyexingyeW1illxingyexingyexingye&password=123456', ' ', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-21 00:10:53: - INFO - Pass
+2020-03-21 00:10:53: - INFO - ['密码字段', '', '', ' ', '', '', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '无密码', '', ' ', '', '', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '无密码', 'post', 'login', 'username=xingye', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-21 00:10:53: - INFO - Pass
+2020-03-21 00:10:53: - INFO - ['', '密码为空', '', ' ', '', '', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '空密码', 'post', 'login', 'username=xingye&password=', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-21 00:10:53: - INFO - Pass
+2020-03-21 00:10:53: - INFO - ['', '密码特殊字符', '', ' ', '', '', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '密码特殊字符', 'post', 'login', 'username=xingye&password=#￥%a', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-21 00:10:53: - INFO - Pass
+2020-03-21 00:10:53: - INFO - ['', '', '密码特殊字符', 'post', 'login', 'username=xingye&password=큐〓㊚a', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-21 00:10:53: - INFO - Pass
+2020-03-21 00:10:53: - INFO - ['', '', '密码emoji表情', 'post', 'login', 'username=xingye&password=🚣adaa', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-21 00:10:53: - INFO - Pass
+2020-03-21 00:10:53: - INFO - ['', '密码边界值', '', ' ', '', '', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '密码2位', 'post', 'login', 'username=xingye&password=12', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-21 00:10:53: - INFO - Pass
+2020-03-21 00:10:53: - INFO - ['', '', '密码3位', 'post', 'login', 'username=xingye&password=123', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-21 00:10:53: - INFO - Pass
+2020-03-21 00:10:53: - INFO - ['', '', '密码16位', 'post', 'login', 'username=xingye&password=1234561234561234', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-21 00:10:53: - INFO - Pass
+2020-03-21 00:10:53: - INFO - ['', '', '密码17位', 'post', 'login', 'username=xingye&password=12345612345612345', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-21 00:10:53: - INFO - Pass
+2020-03-21 00:10:53: - INFO - ['', '', '密码过长', 'post', 'login', 'username=xingye&password=123456123456123456123456123456123456123456123456', ' ', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-21 00:10:53: - INFO - Pass
+2020-03-21 00:10:53: - INFO - ['', '字段测试', '', ' ', '', '', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '无用户名密码', 'post', 'login', '', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-21 00:10:53: - INFO - Pass
+2020-03-21 00:10:53: - INFO - ['', '', '3个字段', 'post', 'login', 'username=xingye&aaa=bbb&password=123456', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '', '']
+2020-03-21 00:10:53: - INFO - Pass
+2020-03-21 00:10:53: - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['等价类', '', '', ' ', '', '', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '等价类用例', '', ' ', '', '', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '用户名密码错误', 'post', 'login', 'username=xingye&password=1253', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-21 00:10:53: - INFO - Pass
+2020-03-21 00:10:53: - INFO - ['', '', '用户名不存在', 'post', 'login', 'username=Wilil&password=123456', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-21 00:10:53: - INFO - Pass
+2020-03-21 00:10:53: - INFO - ['', '', '用户名密码不匹配', 'post', 'login', 'username=xingye&password=tufei', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-21 00:10:53: - INFO - Pass
+2020-03-21 00:10:53: - INFO - ['', '', '用户名密码正确', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '', '']
+2020-03-21 00:10:53: - INFO - Pass
+2020-03-21 00:10:53: - INFO - ['SQL注入', '', '', ' ', '', '', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', 'SQL注入', '', ' ', '', '', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '用户名注入', 'post', 'login', "username=xingye' or 1=1 #&password=123456", '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', 'SQL注入未修复']
+2020-03-21 00:10:53: - INFO - Pass
+2020-03-21 00:10:53: - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '密码注入', 'post', 'login', "username=xingye&password=123456' or 1=1 #", '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-21 00:10:53: - INFO - Pass
+2020-03-21 00:10:53: - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-21 00:10:53: - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-21 00:10:53: - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-21 00:10:53: - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-21 00:10:53: - INFO - ['注册用户', '', '', ' ', '', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '注册用户', '', ' ', '', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '设置地址', 'seturl', 'http://47.102.153.86:8080/inter/HTTP', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '添加头', 'addheader', 'token', 'null', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '保存token', 'savejson', 'token', 'token', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '注册', 'post', 'register', 'username=Tester55&pwd=123456&nickname=测试账号&describe=这个账号，是一个测试注册的账号', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '校验注册', 'assertequals', 'status', '200', '', '', '']
+2020-03-21 00:10:53: - INFO - Pass
+2020-03-21 00:10:53: - INFO - ['登录', '', '', ' ', '', 'SS', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '登录', '', ' ', '', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '登录', 'post', 'login', 'username=Tester55&password=123456', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '']
+2020-03-21 00:10:53: - INFO - Pass
+2020-03-21 00:10:53: - INFO - ['', '', '保存id', 'savejson', 'userid', 'id', '', '', '']
+2020-03-21 00:10:53: - INFO - ['获取用户信息', '', '', ' ', '', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '获取用户信息', '', ' ', '', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '获取用户信息', 'post', 'getUserInfo', 'id={id}', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '校验用户信息', 'assertequals', 'status', '200', '', '', '']
+2020-03-21 00:10:53: - INFO - Pass
+2020-03-21 00:10:53: - INFO - ['', '', '校验用户id', 'assertequals', 'id', '{id}', '', '', '']
+2020-03-21 00:10:53: - INFO - Pass
+2020-03-21 00:10:53: - INFO - ['', '', '校验用户昵称', 'assertequals', 'nickname', '测试账号', '', '', '']
+2020-03-21 00:10:53: - INFO - Fail
+2020-03-21 00:10:53: - INFO - ['', '', '校验用户描述', 'assertequals', 'describe', '这个账号，是一个测试注册的账号', '', '', '']
+2020-03-21 00:10:53: - INFO - Fail
+2020-03-21 00:10:53: - INFO - ['注销', '', '', ' ', '', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '注销', '', ' ', '', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '登出', 'post', 'logout', '', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '校验登出', 'assertequals', 'status', '200', '', '', '']
+2020-03-21 00:10:53: - INFO - Pass
+2020-03-21 00:10:53: - INFO - ['', '', '校验登录态', 'post', 'getUserInfo', 'id={id}', '', '', '']
+2020-03-21 00:10:53: - INFO - ['', '', '校验用户信息', 'assertequals', 'status', '405', '', '', '']
+2020-03-21 00:10:53: - INFO - Pass
+2020-03-21 00:10:53: - INFO - {'runtype': 'HTTP', 'title': 'HTTP接口自动化报告', 'starttime': '2020-03-21 00:10:52', 'endtime': '2020-03-21 00:10:53', 'casecount': '141', 'passrate': '98.58%', 'status': 'FAIL'}
+2020-03-21 00:10:55: - INFO - {'from': '993843278@qq.com', 'username': '993843278@qq.com', 'hostname': 'smtp.qq.com', 'password': 'pczuqrfytbunbeji', 'to': ['506135307@qq.com'], 'cc': ["'2819313776@qq.com'"], 'mail_subject': '自动化测试报告', 'mail_encoding': 'utf8', 'filepaths': [], 'filenames': []}
+2020-03-21 00:10:55: - INFO - '<html><style type="text/css">body{ background:#ffffff; margin:0 auto; padding:0; text-align:left; font-size:13px; font-family: "微软雅黑","宋体";}table{ font-size:13px; font-family: "微软雅黑","宋体";}.table_c{border:1px solid #ccc;border-collapse:collapse; }.table_c td{border:1px solid #ccc; border-collapse:collapse;}.table_b{border:1px solid #666;border-collapse:collapse; }.table_b td{ border-collapse:collapse; border:1px solid #ccc;}.table_b th{color:#fff; background:#666;}a:link{ color:#3366cc; font-weight:normal; }a:visited { color: #3366cc;}a:hover{ color:#000; }a:active { color:#3366cc; }td{ line-height:20px;}.case-group {border: 1px solid transparent;border-color: #ddd;line-height:5px;}.case-group a:link,a:hover{color:#0092fa;text-decoration:none;}.group-模拟器测试用例{margin: 10px;}.case-模拟器测试用例{height: 30px;}.case-case {border-top: 1px solid;border-color: #ddd;padding: 13px;word-wrap: break-word;}.statuclass{float:right;right:5%;position:relative;}.countclass{float:right;right:20%;position:relative;}.passclass{float:right;right:30%;position:relative;}.casename{position:relative;left:3%;}.righta{float:right;font-size:20px;}.case-file{border: 2px #8cbfff solid;border-radius: 5px;}</style><table width="650" ="0" cellspacing="0" align="center" cellpadding="0" style="border-radius: 15px;background-color: #f6f5f5;border: 1px #ffe4da solid;"><tbody><tr><td><table width="650" border="0" cellpadding="0" cellspacing="0" style="border-radius: 15px 15px 0 0;background-color: #ffffff;"><tbody><tr><td width="137"><img src="http://112.741.191.10/wp-content/uploads/2018/07/logo_middle.png" width="137" height="80"></td><td align="left" style="font-size: 13px;color: #999999;padding-top: 26px;right: 10px;position: relative;top: -10px;text-align:right;"><h style="font-size: 20px;font-family: cursive;line-height: 30px;color: #8cbfff;">Hi All ！ </h><br>此为来自阿里巴巴自动化小组测试邮件，请不要直接回复。</td></tr></tbody></table><br><table width="592" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="font-size: 14px; color: 333333; font-weight: bold; padding-bottom:15px;">测试报告：<font color="ff6600">自动化测试用例</font></td></tr><tr><td style="border: 2px #8cbfff solid;border-radius: 5px;"><table width="572" border="0" align="center" class="table_c" style="border-collapse:collapse;margin: 10px;"><tbody><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试内容</td><td colspan="3" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><h4 style="line-height: 1px;margin:0;">HTTP接口自动化报告</h4></td></tr><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试状态</td><td height="28" width="150" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><font style="font-weight: bold;font-size: 14px;color: red;">FAIL</font></td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">类型</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">HTTP</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">通过率</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">98.58%</td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">开始时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">2020-03-21 00:10:52</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">总用例数</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">141</td><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">结束时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">2020-03-21 00:10:53</td></tr></tbody></table></td></tr><tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 10px 0;border-bottom: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">如果您对本次邮件结果有任何疑问，请联系 <a href="http://wpa.qq.com/msgrd?v=3&uin=993843278&site=qq&menu=yes" target="_blank" color="#666666">Xingye：993843278</a></a> 反馈。</td></tr></tbody></table></td></tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 16px 0;border-top: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">感谢您的查阅。<font color="#666666">All Rights Reserved by 阿里巴巴 College. Designed and Developed by Mr. 星野.</font></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>'
+2020-03-21 00:10:55: - INFO - 邮件发送成功
+2020-03-21 10:54:17: - INFO - 正在连接恢复./conf/userinfo.sql数据库
+2020-03-21 10:54:17: - INFO - 数据更新成功
+2020-03-21 10:54:17: - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-21 10:54:17: - INFO - ['异常token', 'HTTP', 'HTTP接口自动化报告', '', '', '', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '基础设置', '', ' ', '', '', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '', '设置地址', 'seturl', 'http://47.102.153.86:8080/inter/HTTP', '', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', 'token边界值', '', ' ', '', '', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '', '没有字段', 'post', 'auth', '', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-21 10:54:17: - INFO - Pass
+2020-03-21 10:54:17: - INFO - ['', '', '添加头', 'addheader', 'token', '', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '', '空token', 'post', 'auth', '', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-21 10:54:17: - INFO - Pass
+2020-03-21 10:54:17: - INFO - ['', '', '添加头', 'addheader', 'token', 'a', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '', '一位长度', 'post', 'auth', '', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-21 10:54:17: - INFO - Pass
+2020-03-21 10:54:17: - INFO - ['', '', '添加头', 'addheader', 'token', 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '', 'token过长', 'post', 'auth', '', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-21 10:54:17: - INFO - Pass
+2020-03-21 10:54:17: - INFO - ['', 'token等价类', '', ' ', '', '', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '', '添加头', 'addheader', 'token', '109f1a34bdcf4785b6c70a9917d7a49d', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '', 'token未授权', 'post', 'auth', '', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '', '校验', 'assertequals', 'status', '200', '', '', '']
+2020-03-21 10:54:17: - INFO - Pass
+2020-03-21 10:54:17: - INFO - ['', '', '保存返回的token', 'savejson', 'token', 'token', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '', '添加头', 'addheader', 'token', '{token}', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '', 'token已经授权', 'post', 'auth', '', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '', '校验', 'assertequals', 'status', '201', '', '', '']
+2020-03-21 10:54:17: - INFO - Pass
+2020-03-21 10:54:17: - INFO - ['', '', '登录', 'post', 'login', 'username=xingye&password=123456', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '', 'token已经登录', 'post', 'auth', '', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '', '校验', 'assertequals', 'status', '202', '', '', '']
+2020-03-21 10:54:17: - INFO - Pass
+2020-03-21 10:54:17: - INFO - ['', '', '注销', 'post', 'logout', '', '', '', '']
+2020-03-21 10:54:17: - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果', '']
+2020-03-21 10:54:17: - INFO - ['token校验', '', '', '', '', '', '', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '基础设置', '', ' ', '', '', '', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '', '设置地址', 'seturl', 'http://47.102.153.86:8080/inter/HTTP', '', '', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '无token', '', ' ', '', '', '', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '', '删除头', 'removeheader', 'token', '', '', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '', '无token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-21 10:54:17: - INFO - Pass
+2020-03-21 10:54:17: - INFO - ['', 'token值为空', '', ' ', '', '', '', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '', '添加头', 'addheader', 'token', '', '', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '', '空token', 'post', 'login', '', '', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-21 10:54:17: - INFO - Pass
+2020-03-21 10:54:17: - INFO - ['', 'token过长', '', ' ', '', '', '', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '', '更新头', 'addheader', 'token', 'adsfklajfkalfkalfaklsdjfkadsljfklasdfjaldsfjklasdfjkdsajfklds', ' ', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '', 'token过长', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-21 10:54:17: - INFO - Pass
+2020-03-21 10:54:17: - INFO - ['', 'token未授权', '', ' ', '', '', '', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '', '更新头', 'addheader', 'token', '0d862fe621ae4bca86489a554945b202', '', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '', '有效token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-21 10:54:17: - INFO - ['', '', '校验登录', 'assertequals', 'status', '405', '', '', '', '']
+2020-03-21 10:54:17: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', 'token已经授权', '', ' ', '', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '有效token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', 'token已经登录', '', ' ', '', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '有效token', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验登录', 'assertequals', 'status', '406', '', '', '', '修改引入的bug']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', 'token超时失效', '需要手动测试', ' ', '', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['用户名字段', '', '', ' ', '', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '无用户名', '', ' ', '', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '添加头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '保存token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '无用户名', 'post', 'login', 'password=123456', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', '用户名为空', '', ' ', '', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '空用户名', 'post', 'login', 'username=&password=123456', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', '用户名特殊字符', '', ' ', '', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '用户名特殊字符', 'post', 'login', 'username=#￥%a&password=123456', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', '', '用户名特殊字符', 'post', 'login', 'username=큐〓㊚a&password=123456', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', '', '用户名emoji表情', 'post', 'login', 'username=Wil🚣l&password=123456', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', '用户名边界值', '', ' ', '', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '用户名2位', 'post', 'login', 'username=ll&password=123456', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', '', '用户名3位', 'post', 'login', 'username=ill&password=123456', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', '', '用户名16位', 'post', 'login', 'username=xingyexingyexingyexingye&password=123456', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', '', '用户名17位', 'post', 'login', 'username=W1illxingyexingyexingye&password=123456', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', '', '用户名过长', 'post', 'login', 'username=W1illxingyexingyexingyeW1illxingyexingyexingyeW1illxingyexingyexingyeW1illxingyexingyexingye&password=123456', ' ', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['密码字段', '', '', ' ', '', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '无密码', '', ' ', '', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '无密码', 'post', 'login', 'username=xingye', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', '密码为空', '', ' ', '', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '空密码', 'post', 'login', 'username=xingye&password=', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', '密码特殊字符', '', ' ', '', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '密码特殊字符', 'post', 'login', 'username=xingye&password=#￥%a', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', '', '密码特殊字符', 'post', 'login', 'username=xingye&password=큐〓㊚a', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', '', '密码emoji表情', 'post', 'login', 'username=xingye&password=🚣adaa', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', '密码边界值', '', ' ', '', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '密码2位', 'post', 'login', 'username=xingye&password=12', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', '', '密码3位', 'post', 'login', 'username=xingye&password=123', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', '', '密码16位', 'post', 'login', 'username=xingye&password=1234561234561234', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', '', '密码17位', 'post', 'login', 'username=xingye&password=12345612345612345', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', '', '密码过长', 'post', 'login', 'username=xingye&password=123456123456123456123456123456123456123456123456', ' ', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', '字段测试', '', ' ', '', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '无用户名密码', 'post', 'login', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验登录', 'assertequals', 'status', '402', '', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', '', '3个字段', 'post', 'login', 'username=xingye&aaa=bbb&password=123456', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['等价类', '', '', ' ', '', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '等价类用例', '', ' ', '', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '用户名密码错误', 'post', 'login', 'username=xingye&password=1253', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', '', '用户名不存在', 'post', 'login', 'username=Wilil&password=123456', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', '', '用户名密码不匹配', 'post', 'login', 'username=xingye&password=tufei', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', '', '用户名密码正确', 'post', 'login', 'username=xingye&password=123456', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['SQL注入', '', '', ' ', '', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', 'SQL注入', '', ' ', '', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '用户名注入', 'post', 'login', "username=xingye' or 1=1 #&password=123456", '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', 'SQL注入未修复']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '更新头', 'addheader', 'token', 'null', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '保存上一步的token', 'savejson', 'token', 'token', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '密码注入', 'post', 'login', "username=xingye&password=123456' or 1=1 #", '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验登录', 'assertequals', 'status', '401', '', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', '', '注销登录', 'post', 'logout', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-21 10:54:18: - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-21 10:54:18: - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-21 10:54:18: - INFO - ['分组信息', '', '用例名', '关键字', '输入', '', '', '执行状态', '实际结果']
+2020-03-21 10:54:18: - INFO - ['注册用户', '', '', ' ', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '注册用户', '', ' ', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '设置地址', 'seturl', 'http://47.102.153.86:8080/inter/HTTP', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '添加头', 'addheader', 'token', 'null', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '授权', 'post', 'auth', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '保存token', 'savejson', 'token', 'token', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '更新头', 'addheader', 'token', '{token}', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '注册', 'post', 'register', 'username=Tester55&pwd=123456&nickname=测试账号&describe=这个账号，是一个测试注册的账号', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验注册', 'assertequals', 'status', '200', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['登录', '', '', ' ', '', 'SS', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '登录', '', ' ', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '登录', 'post', 'login', 'username=Tester55&password=123456', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验登录', 'assertequals', 'status', '200', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', '', '保存id', 'savejson', 'userid', 'id', '', '', '']
+2020-03-21 10:54:18: - INFO - ['获取用户信息', '', '', ' ', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '获取用户信息', '', ' ', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '获取用户信息', 'post', 'getUserInfo', 'id={id}', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '校验用户信息', 'assertequals', 'status', '200', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', '', '校验用户id', 'assertequals', 'id', '{id}', '', '', '']
+2020-03-21 10:54:18: - INFO - Pass
+2020-03-21 10:54:18: - INFO - ['', '', '校验用户昵称', 'assertequals', 'nickname', '测试账号', '', '', '']
+2020-03-21 10:54:18: - INFO - Fail
+2020-03-21 10:54:18: - INFO - ['', '', '校验用户描述', 'assertequals', 'describe', '这个账号，是一个测试注册的账号', '', '', '']
+2020-03-21 10:54:18: - INFO - Fail
+2020-03-21 10:54:18: - INFO - ['注销', '', '', ' ', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '注销', '', ' ', '', '', '', '', '']
+2020-03-21 10:54:18: - INFO - ['', '', '登出', 'post', 'logout', '', '', '', '']
+2020-03-21 10:54:19: - INFO - ['', '', '校验登出', 'assertequals', 'status', '200', '', '', '']
+2020-03-21 10:54:19: - INFO - Pass
+2020-03-21 10:54:19: - INFO - ['', '', '校验登录态', 'post', 'getUserInfo', 'id={id}', '', '', '']
+2020-03-21 10:54:19: - INFO - ['', '', '校验用户信息', 'assertequals', 'status', '405', '', '', '']
+2020-03-21 10:54:19: - INFO - Pass
+2020-03-21 10:54:19: - INFO - {'runtype': 'HTTP', 'title': 'HTTP接口自动化报告', 'starttime': '2020-03-21 10:54:17', 'endtime': '2020-03-21 10:54:19', 'casecount': '141', 'passrate': '98.58%', 'status': 'FAIL'}
+2020-03-21 10:54:21: - INFO - {'from': '993843278@qq.com', 'username': '993843278@qq.com', 'hostname': 'smtp.qq.com', 'password': 'pczuqrfytbunbeji', 'to': ['506135307@qq.com'], 'cc': ["'2819313776@qq.com'"], 'mail_subject': '自动化测试报告', 'mail_encoding': 'utf8', 'filepaths': [], 'filenames': []}
+2020-03-21 10:54:21: - INFO - '<html><style type="text/css">body{ background:#ffffff; margin:0 auto; padding:0; text-align:left; font-size:13px; font-family: "微软雅黑","宋体";}table{ font-size:13px; font-family: "微软雅黑","宋体";}.table_c{border:1px solid #ccc;border-collapse:collapse; }.table_c td{border:1px solid #ccc; border-collapse:collapse;}.table_b{border:1px solid #666;border-collapse:collapse; }.table_b td{ border-collapse:collapse; border:1px solid #ccc;}.table_b th{color:#fff; background:#666;}a:link{ color:#3366cc; font-weight:normal; }a:visited { color: #3366cc;}a:hover{ color:#000; }a:active { color:#3366cc; }td{ line-height:20px;}.case-group {border: 1px solid transparent;border-color: #ddd;line-height:5px;}.case-group a:link,a:hover{color:#0092fa;text-decoration:none;}.group-模拟器测试用例{margin: 10px;}.case-模拟器测试用例{height: 30px;}.case-case {border-top: 1px solid;border-color: #ddd;padding: 13px;word-wrap: break-word;}.statuclass{float:right;right:5%;position:relative;}.countclass{float:right;right:20%;position:relative;}.passclass{float:right;right:30%;position:relative;}.casename{position:relative;left:3%;}.righta{float:right;font-size:20px;}.case-file{border: 2px #8cbfff solid;border-radius: 5px;}</style><table width="650" ="0" cellspacing="0" align="center" cellpadding="0" style="border-radius: 15px;background-color: #f6f5f5;border: 1px #ffe4da solid;"><tbody><tr><td><table width="650" border="0" cellpadding="0" cellspacing="0" style="border-radius: 15px 15px 0 0;background-color: #ffffff;"><tbody><tr><td width="137"><img src="http://112.741.191.10/wp-content/uploads/2018/07/logo_middle.png" width="137" height="80"></td><td align="left" style="font-size: 13px;color: #999999;padding-top: 26px;right: 10px;position: relative;top: -10px;text-align:right;"><h style="font-size: 20px;font-family: cursive;line-height: 30px;color: #8cbfff;">Hi All ！ </h><br>此为来自阿里巴巴自动化小组测试邮件，请不要直接回复。</td></tr></tbody></table><br><table width="592" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="font-size: 14px; color: 333333; font-weight: bold; padding-bottom:15px;">测试报告：<font color="ff6600">自动化测试用例</font></td></tr><tr><td style="border: 2px #8cbfff solid;border-radius: 5px;"><table width="572" border="0" align="center" class="table_c" style="border-collapse:collapse;margin: 10px;"><tbody><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试内容</td><td colspan="3" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><h4 style="line-height: 1px;margin:0;">HTTP接口自动化报告</h4></td></tr><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试状态</td><td height="28" width="150" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><font style="font-weight: bold;font-size: 14px;color: red;">FAIL</font></td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">类型</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">HTTP</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">通过率</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">98.58%</td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">开始时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">2020-03-21 10:54:17</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">总用例数</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">141</td><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">结束时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">2020-03-21 10:54:19</td></tr></tbody></table></td></tr><tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 10px 0;border-bottom: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">如果您对本次邮件结果有任何疑问，请联系 <a href="http://wpa.qq.com/msgrd?v=3&uin=993843278&site=qq&menu=yes" target="_blank" color="#666666">Xingye：993843278</a></a> 反馈。</td></tr></tbody></table></td></tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 16px 0;border-top: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">感谢您的查阅。<font color="#666666">All Rights Reserved by 阿里巴巴 College. Designed and Developed by Mr. 星野.</font></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>'
+2020-03-21 10:54:21: - INFO - 邮件发送成功

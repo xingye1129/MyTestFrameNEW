@@ -59,7 +59,7 @@ mysql.init_mysql('./conf/userinfo.sql')
 
 read = Read()
 
-casename = 'APP用例'
+casename = 'HTTP接口用例'
 read.OpenExcel('./lib/cases/'+ casename +'.xls')
 sheetname = read.get_sheets()
 
