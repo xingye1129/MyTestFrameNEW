@@ -1,3 +1,5 @@
+# -*- coding: UTF-8 -*-
+
 
 SET FOREIGN_KEY_CHECKS=0;
 

@@ -34,6 +34,7 @@ def runcase(line, http):
     args = args[args.find('['):args.rfind(', varargs')]
     args = eval(args)
     args.remove('self')
+    # print(args)
 
     if len(args) == 0:
         func()
@@ -46,8 +47,10 @@ def runcase(line, http):
         return
     if len(args) == 3:
         func(line[4], line[5], line[6])
+        return
     if len(args) == 4:
         func(line[4], line[5], line[6])
+        return
 
 
 
@@ -59,7 +62,7 @@ mysql.init_mysql('./conf/userinfo.sql')
 
 read = Read()
 
-casename = 'Web'
+casename = 'HTTP接口用例'
 read.OpenExcel('./lib/cases/'+ casename +'.xls')
 sheetname = read.get_sheets()
 

@@ -36,10 +36,12 @@ class HTTP:
             self.url = u
             self.writer.write(self.writer.row, 7, 'PASS')
             self.writer.write(self.writer.row, 8, str(self.url))
+            return True
         else:
             logger.error('url格式错误')
             self.writer.write(self.writer.row, 7, 'FAIL')
             self.writer.write(self.writer.row, 8, 'url格式错误')
+            return False
 
     def get(self, url,params =None, encode='utf8'):
 
@@ -59,9 +61,11 @@ class HTTP:
             self.jsonres = json.loads(jsons)
             self.writer.write(self.writer.row, 7, 'PASS')
             self.writer.write(self.writer.row, 8, str(self.jsonres))
+            return True
         except Exception as e:
             self.writer.write(self.writer.row, 7, 'FAIL')
             self.writer.write(self.writer.row, 8, str(self.result))
+            return False
 
     def post(self, url, d=None, j=None, encode='utf8'):
         """
@@ -87,10 +91,11 @@ class HTTP:
             self.jsonres = json.loads(self.result)
             self.writer.write(self.writer.row, 7, 'PASS')
             self.writer.write(self.writer.row, 8, str(self.jsonres))
+            return True
         except Exception as e:
             self.writer.write(self.writer.row, 7, 'FAIL')
             self.writer.write(self.writer.row, 8, str(self.result))
-
+            return False
         # print(self.result)
         # logger.info(self.result)
 
@@ -107,6 +112,7 @@ class HTTP:
         self.session.headers[key] = value
         self.writer.write(self.writer.row, 7, 'PASS')
         self.writer.write(self.writer.row, 8, str(self.session.headers))
+        return True
 
     def removeheader(self,key):
         """
@@ -119,12 +125,13 @@ class HTTP:
             self.session.headers[key]
             self.writer.write(self.writer.row, 7, 'PASS')
             self.writer.write(self.writer.row, 8, str(self.session.headers))
+            return True
         except Exception as e:
             logger.error('没有' + key +'这个值')
             self.writer.write(self.writer.row, 7, 'FAIL')
             self.writer.write(self.writer.row, 8, str(self.session.headers))
             logger.exception(e)
-
+            return False
 
 
     def assertequals(self, key, value):
@@ -143,10 +150,13 @@ class HTTP:
             logger.info('Pass')
             self.writer.write(self.writer.row, 7, 'PASS')
             self.writer.write(self.writer.row, 8, res)
+            return True
         else:
             logger.info('Fail')
+            # print(traceback.print_exc())
             self.writer.write(self.writer.row, 7, 'FAIL')
             self.writer.write(self.writer.row, 8, '实际结果： ' + res + "  预期结果：" + value)
+            return False
 
     def savejson(self, jpath, t):
         """
@@ -160,11 +170,13 @@ class HTTP:
             self.params[t] = str(jsonpath.jsonpath(self.jsonres,jpath)[0])
             self.writer.write(self.writer.row, 7, 'PASS')
             self.writer.write(self.writer.row, 8, str(self.params[t]))
+            return True
         except Exception as e:
             logger.error('没有' + jpath + '这个值')
             self.writer.write(self.writer.row, 7, 'FAIL')
             self.writer.write(self.writer.row, 8, str(self.jsonres))
             logger.exception(e)
+            return False
 
     # 计算处理的方法，将传入的value值作为s传入到__get_param方法中获取对应的值
     def __get_param(self, s):

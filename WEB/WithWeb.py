@@ -57,7 +57,6 @@ class  Webinter:
             self.driver = webdriver.Chrome(executable_path="./Web/lib/chromedriver.exe",options=option)
             self.writer.write(self.writer.row, 7, 'PASS')
             self.driver.implicitly_wait(self.t)
-
         #谷歌浏览器：
         elif type == 'gc':
             self.driver = webdriver.Firefox(executable_path="./Web/lib/geckodriver.exe")

@@ -79,6 +79,7 @@ if __name__ == "__main__":
     config.get_config('../conf/conf.properties')
     email = Email()
     # email.mail_info['filepaths'] = ['E:\\Software\\module1.html']
+    # email.mail_info['filepaths'] = ['E:\\Software\\module1.html']
     email.mail_info['filenames'] = ['Xytesting.html']
     html = config.config['mailtxt']
     email.send(html)
